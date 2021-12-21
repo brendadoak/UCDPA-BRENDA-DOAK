@@ -1,0 +1,2117 @@
+Month_Year,Hospital_Name,Hospital_ID,Hospital_Department,ReferralType,TotalReferrals
+Jan-17,Beaumont Hospital,923,Anaesthetics,General Referral,2
+Jan-17,Beaumont Hospital,923,Cardiology,General Referral,53
+Jan-17,Beaumont Hospital,923,Clinical Immunology,General Referral,9
+Jan-17,Beaumont Hospital,923,Dermatology,General Referral,57
+Jan-17,Beaumont Hospital,923,Endocrinology,General Referral,14
+Jan-17,Beaumont Hospital,923,ENT,General Referral,82
+Jan-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,65
+Jan-17,Beaumont Hospital,923,General Surgery,General Referral,76
+Jan-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,11
+Jan-17,Beaumont Hospital,923,Gynaecology,General Referral,28
+Jan-17,Beaumont Hospital,923,Haematology,General Referral,10
+Jan-17,Beaumont Hospital,923,Infectious Diseases,General Referral,2
+Jan-17,Beaumont Hospital,923,Maxillo-Facial,General Referral,2
+Jan-17,Beaumont Hospital,923,Nephrology,General Referral,9
+Jan-17,Beaumont Hospital,923,Neurology,General Referral,44
+Jan-17,Beaumont Hospital,923,Neurosurgery,General Referral,30
+Jan-17,Beaumont Hospital,923,Ophthalmology,General Referral,12
+Jan-17,Beaumont Hospital,923,Orthopaedics,General Referral,67
+Jan-17,Beaumont Hospital,923,Pain Relief,General Referral,7
+Jan-17,Beaumont Hospital,923,Plastic Surgery,General Referral,39
+Jan-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,31
+Jan-17,Beaumont Hospital,923,Rheumatology,General Referral,23
+Jan-17,Beaumont Hospital,923,Urology,General Referral,49
+Jan-17,Beaumont Hospital,923,Vascular Surgery,General Referral,32
+Jan-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,19
+Jan-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,9
+Jan-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,27
+Jan-17,Cavan Monaghan Hospital,402,ENT,General Referral,39
+Jan-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,34
+Jan-17,Cavan Monaghan Hospital,402,Haematology,General Referral,2
+Jan-17,Cavan Monaghan Hospital,402,Medical,General Referral,60
+Jan-17,Cavan Monaghan Hospital,402,Neurology,General Referral,4
+Jan-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,33
+Jan-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,32
+Jan-17,Cavan Monaghan Hospital,402,Surgical,General Referral,125
+Jan-17,Connolly Hospital,108,Cardiology,General Referral,9
+Jan-17,Connolly Hospital,108,Endocrinology,General Referral,10
+Jan-17,Connolly Hospital,108,Gastroenterology,General Referral,8
+Jan-17,Connolly Hospital,108,General Surgery,General Referral,1
+Jan-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,1
+Jan-17,Connolly Hospital,108,Nephrology,General Referral,1
+Jan-17,Connolly Hospital,108,Orthopaedic,General Referral,1
+Jan-17,Connolly Hospital,108,Respiratory,General Referral,1
+Jan-17,Connolly Hospital,108,Rheumatology,General Referral,22
+Jan-17,Connolly Hospital,108,Urology,General Referral,2
+Jan-17,Letterkenny University Hospital,500,Antenatal,General Referral,28
+Jan-17,Letterkenny University Hospital,500,Cardiology,General Referral,14
+Jan-17,Letterkenny University Hospital,500,Colorectal,General Referral,23
+Jan-17,Letterkenny University Hospital,500,Colposcopy,General Referral,1
+Jan-17,Letterkenny University Hospital,500,Day Services,General Referral,44
+Jan-17,Letterkenny University Hospital,500,Dermatology,General Referral,20
+Jan-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,34
+Jan-17,Letterkenny University Hospital,500,Endocrinology,General Referral,3
+Jan-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,11
+Jan-17,Letterkenny University Hospital,500,Gynaecology,General Referral,30
+Jan-17,Letterkenny University Hospital,500,Haematology,General Referral,5
+Jan-17,Letterkenny University Hospital,500,Medical,General Referral,20
+Jan-17,Letterkenny University Hospital,500,Nephrology,General Referral,6
+Jan-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,15
+Jan-17,Letterkenny University Hospital,500,Oral Surgery,General Referral,2
+Jan-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,38
+Jan-17,Letterkenny University Hospital,500,Paediatrics,General Referral,30
+Jan-17,Letterkenny University Hospital,500,Respiratory,General Referral,8
+Jan-17,Letterkenny University Hospital,500,Rheumatology,General Referral,2
+Jan-17,Letterkenny University Hospital,500,Surgical,General Referral,53
+Jan-17,Letterkenny University Hospital,500,Urodynamics,General Referral,1
+Jan-17,Letterkenny University Hospital,500,Urology,General Referral,15
+Jan-17,Letterkenny University Hospital,500,X-Ray,General Referral,6
+Jan-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,4
+Jan-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,1
+Jan-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,2
+Jan-17,Mater Public Hospital,908,ENT Surgery,General Referral,3
+Jan-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,10
+Jan-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,4
+Jan-17,Mater Public Hospital,908,General Surgery,General Referral,1
+Jan-17,Mater Public Hospital,908,Geriatrics,General Referral,1
+Jan-17,Mater Public Hospital,908,Gynaecology,General Referral,9
+Jan-17,Mater Public Hospital,908,Haematology,General Referral,1
+Jan-17,Mater Public Hospital,908,Hepatology,General Referral,1
+Jan-17,Mater Public Hospital,908,Infectious Diseases,General Referral,3
+Jan-17,Mater Public Hospital,908,Nephrology,General Referral,2
+Jan-17,Mater Public Hospital,908,Neurology,General Referral,18
+Jan-17,Mater Public Hospital,908,Ophthalmology,General Referral,4
+Jan-17,Mater Public Hospital,908,Orthopaedic,General Referral,27
+Jan-17,Mater Public Hospital,908,Plastic Surgery,General Referral,2
+Jan-17,Mater Public Hospital,908,Psychiatry,General Referral,1
+Jan-17,Mater Public Hospital,908,Respiratory Med,General Referral,1
+Jan-17,Mater Public Hospital,908,Rheumatology,General Referral,3
+Jan-17,Mater Public Hospital,908,Urology,General Referral,7
+Jan-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,12
+Jan-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,6
+Jan-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,24
+Jan-17,Our Lady of Lourdes Hospital,922,Haematology,General Referral,4
+Jan-17,Our Lady of Lourdes Hospital,922,Paediatrics,General Referral,2
+Jan-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,24
+Jan-17,Sligo University Hospital,501,ENT,General Referral,1
+Jan-17,Sligo University Hospital,501,Medical,General Referral,32
+Jan-17,Sligo University Hospital,501,Orthopaedics,General Referral,4
+Jan-17,Sligo University Hospital,501,Paediatrics,General Referral,2
+Jan-17,South Tipperary General Hospital,607,Cardiology,General Referral,3
+Jan-17,South Tipperary General Hospital,607,Diabetes Mellitus,General Referral,1
+Jan-17,South Tipperary General Hospital,607,General Medicine,General Referral,2
+Jan-17,South Tipperary General Hospital,607,General Surgery,General Referral,15
+Jan-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,5
+Jan-17,South Tipperary General Hospital,607,Gynaecology,General Referral,6
+Jan-17,South Tipperary General Hospital,607,Obstetrics,General Referral,5
+Jan-17,South Tipperary General Hospital,607,Paediatrics,General Referral,2
+Jan-17,St. Michael's Hospital,912,Cardiology,General Referral,3
+Jan-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,2
+Jan-17,St. Michael's Hospital,912,Dermatology,General Referral,18
+Jan-17,St. Michael's Hospital,912,Diabetes,General Referral,3
+Jan-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,3
+Jan-17,St. Michael's Hospital,912,ENT,General Referral,22
+Jan-17,St. Michael's Hospital,912,Gastroenterology,General Referral,27
+Jan-17,St. Michael's Hospital,912,General Surgery,General Referral,19
+Jan-17,St. Michael's Hospital,912,Gynaecology,General Referral,6
+Jan-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,4
+Jan-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,4
+Jan-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,4
+Jan-17,St. Michael's Hospital,912,Ophthalmology (Children),General Referral,1
+Jan-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,1
+Jan-17,St. Michael's Hospital,912,Orthopaedics,General Referral,5
+Jan-17,St. Michael's Hospital,912,Pelvic Floor Clinic,General Referral,3
+Jan-17,St. Michael's Hospital,912,Respiratory,General Referral,8
+Jan-17,St. Michael's Hospital,912,Urology,General Referral,2
+Jan-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,9
+Jan-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,4
+Jan-17,Temple Street Children's University Hospital,940,ENT,General Referral,40
+Jan-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,69
+Jan-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,15
+Jan-17,Temple Street Children's University Hospital,940,Plastics,General Referral,7
+Jan-17,Temple Street Children's University Hospital,940,Surgical,General Referral,9
+Jan-17,Temple Street Children's University Hospital,940,Urology,General Referral,13
+Jan-17,UL Hospitals Group,9100,Cardiology,General Referral,47
+Jan-17,UL Hospitals Group,9100,ENT (Otolaryngology),General Referral,2
+Jan-17,UL Hospitals Group,9100,Gastroenterology,General Referral,18
+Jan-17,UL Hospitals Group,9100,General Medicine,General Referral,24
+Jan-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,11
+Jan-17,UL Hospitals Group,9100,Gynaecology,General Referral,54
+Jan-17,UL Hospitals Group,9100,Nephrology,General Referral,7
+Jan-17,UL Hospitals Group,9100,Ophthalmology,General Referral,9
+Jan-17,UL Hospitals Group,9100,Orthopaedics,General Referral,52
+Jan-17,UL Hospitals Group,9100,Pain Management,General Referral,1
+Jan-17,UL Hospitals Group,9100,Plastic Surgery,General Referral,7
+Jan-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,37
+Jan-17,UL Hospitals Group,9100,Rheumatology,General Referral,1
+Jan-17,UL Hospitals Group,9100,Urology,General Referral,1
+Jan-17,University Hospital Galway,800,Cardio-Thoracic Surgery,General Referral,2
+Jan-17,University Hospital Galway,800,Cardiology,General Referral,53
+Jan-17,University Hospital Galway,800,Clinical Immunology,General Referral,5
+Jan-17,University Hospital Galway,800,Dermatology,General Referral,51
+Jan-17,University Hospital Galway,800,Diabetes,General Referral,6
+Jan-17,University Hospital Galway,800,Endocrinology,General Referral,13
+Jan-17,University Hospital Galway,800,Fertility,General Referral,1
+Jan-17,University Hospital Galway,800,Gastro-Enterology,General Referral,62
+Jan-17,University Hospital Galway,800,General Medicine,General Referral,3
+Jan-17,University Hospital Galway,800,General Surgery,General Referral,66
+Jan-17,University Hospital Galway,800,Geriatric Medicine,General Referral,6
+Jan-17,University Hospital Galway,800,Gynaecology,General Referral,52
+Jan-17,University Hospital Galway,800,Haematology,General Referral,16
+Jan-17,University Hospital Galway,800,Haemochromatosis,General Referral,2
+Jan-17,University Hospital Galway,800,Hepatitis B/C,General Referral,3
+Jan-17,University Hospital Galway,800,Infectious Diseases,General Referral,2
+Jan-17,University Hospital Galway,800,Nephrology,General Referral,6
+Jan-17,University Hospital Galway,800,Neurology,General Referral,30
+Jan-17,University Hospital Galway,800,Obstetrics,General Referral,9
+Jan-17,University Hospital Galway,800,Oncology,General Referral,1
+Jan-17,University Hospital Galway,800,Ophthalmology,General Referral,50
+Jan-17,University Hospital Galway,800,Oral Surgery,General Referral,10
+Jan-17,University Hospital Galway,800,Orthopaedics,General Referral,84
+Jan-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,85
+Jan-17,University Hospital Galway,800,Paediatrics,General Referral,55
+Jan-17,University Hospital Galway,800,Pain Clinic,General Referral,3
+Jan-17,University Hospital Galway,800,Plastic Surgery,General Referral,94
+Jan-17,University Hospital Galway,800,Respiratory Medicine,General Referral,21
+Jan-17,University Hospital Galway,800,Rheumatology,General Referral,21
+Jan-17,University Hospital Galway,800,Sleep,General Referral,12
+Jan-17,University Hospital Galway,800,Urology,General Referral,49
+Jan-17,University Hospital Galway,800,Vascular Surgery,General Referral,31
+Feb-17,Beaumont Hospital,923,Anaesthetics,General Referral,3
+Feb-17,Beaumont Hospital,923,Cardiology,General Referral,46
+Feb-17,Beaumont Hospital,923,Clinical Immunology,General Referral,6
+Feb-17,Beaumont Hospital,923,Dermatology,General Referral,67
+Feb-17,Beaumont Hospital,923,Endocrinology,General Referral,27
+Feb-17,Beaumont Hospital,923,ENT,General Referral,77
+Feb-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,65
+Feb-17,Beaumont Hospital,923,General Surgery,General Referral,54
+Feb-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,14
+Feb-17,Beaumont Hospital,923,Gynaecology,General Referral,13
+Feb-17,Beaumont Hospital,923,Haematology,General Referral,10
+Feb-17,Beaumont Hospital,923,Infectious Diseases,General Referral,1
+Feb-17,Beaumont Hospital,923,Maxillo-Facial,General Referral,2
+Feb-17,Beaumont Hospital,923,Nephrology,General Referral,7
+Feb-17,Beaumont Hospital,923,Neurology,General Referral,38
+Feb-17,Beaumont Hospital,923,Neurosurgery,General Referral,42
+Feb-17,Beaumont Hospital,923,Oncology,General Referral,3
+Feb-17,Beaumont Hospital,923,Ophthalmology,General Referral,13
+Feb-17,Beaumont Hospital,923,Orthopaedics,General Referral,56
+Feb-17,Beaumont Hospital,923,Pain Relief,General Referral,13
+Feb-17,Beaumont Hospital,923,Plastic Surgery,General Referral,31
+Feb-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,28
+Feb-17,Beaumont Hospital,923,Rheumatology,General Referral,27
+Feb-17,Beaumont Hospital,923,Urology,General Referral,49
+Feb-17,Beaumont Hospital,923,Vascular Surgery,General Referral,33
+Feb-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,11
+Feb-17,Cappagh National Orthopaedic Hospital,955,Rheumatology,General Referral,2
+Feb-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,15
+Feb-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,23
+Feb-17,Cavan Monaghan Hospital,402,ENT,General Referral,28
+Feb-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,33
+Feb-17,Cavan Monaghan Hospital,402,Haematology,General Referral,5
+Feb-17,Cavan Monaghan Hospital,402,Medical,General Referral,84
+Feb-17,Cavan Monaghan Hospital,402,Neurology,General Referral,10
+Feb-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,27
+Feb-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,36
+Feb-17,Cavan Monaghan Hospital,402,Surgical,General Referral,115
+Feb-17,Connolly Hospital,108,Cardiology,General Referral,21
+Feb-17,Connolly Hospital,108,Endocrinology,General Referral,8
+Feb-17,Connolly Hospital,108,Gastroenterology,General Referral,12
+Feb-17,Connolly Hospital,108,General Surgery,General Referral,3
+Feb-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,1
+Feb-17,Connolly Hospital,108,Orthopaedic,General Referral,12
+Feb-17,Connolly Hospital,108,Respiratory,General Referral,6
+Feb-17,Connolly Hospital,108,Rheumatology,General Referral,9
+Feb-17,Connolly Hospital,108,Urology,General Referral,2
+Feb-17,Letterkenny University Hospital,500,Antenatal,General Referral,25
+Feb-17,Letterkenny University Hospital,500,Cardiology,General Referral,16
+Feb-17,Letterkenny University Hospital,500,Colorectal,General Referral,10
+Feb-17,Letterkenny University Hospital,500,Colposcopy,General Referral,1
+Feb-17,Letterkenny University Hospital,500,Day Services,General Referral,37
+Feb-17,Letterkenny University Hospital,500,Dermatology,General Referral,36
+Feb-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,55
+Feb-17,Letterkenny University Hospital,500,Endocrinology,General Referral,8
+Feb-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,20
+Feb-17,Letterkenny University Hospital,500,Gynaecology,General Referral,29
+Feb-17,Letterkenny University Hospital,500,Haematology,General Referral,6
+Feb-17,Letterkenny University Hospital,500,Medical,General Referral,12
+Feb-17,Letterkenny University Hospital,500,Nephrology,General Referral,2
+Feb-17,Letterkenny University Hospital,500,Neurology,General Referral,3
+Feb-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,9
+Feb-17,Letterkenny University Hospital,500,Oral Surgery,General Referral,1
+Feb-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,43
+Feb-17,Letterkenny University Hospital,500,Paediatrics,General Referral,22
+Feb-17,Letterkenny University Hospital,500,Respiratory,General Referral,11
+Feb-17,Letterkenny University Hospital,500,Rheumatology,General Referral,4
+Feb-17,Letterkenny University Hospital,500,Surgical,General Referral,49
+Feb-17,Letterkenny University Hospital,500,Urodynamics,General Referral,2
+Feb-17,Letterkenny University Hospital,500,Urology,General Referral,9
+Feb-17,Letterkenny University Hospital,500,X-Ray,General Referral,1
+Feb-17,Louth County Hospital,400,Surgery,General Referral,6
+Feb-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,3
+Feb-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,2
+Feb-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,2
+Feb-17,Mater Public Hospital,908,ENT Surgery,General Referral,7
+Feb-17,Mater Public Hospital,908,Gastroenterology,General Referral,2
+Feb-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,4
+Feb-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,2
+Feb-17,Mater Public Hospital,908,General Surgery,General Referral,3
+Feb-17,Mater Public Hospital,908,Gynaecology,General Referral,5
+Feb-17,Mater Public Hospital,908,Infectious Diseases,General Referral,5
+Feb-17,Mater Public Hospital,908,Neurology,General Referral,11
+Feb-17,Mater Public Hospital,908,Ophthalmology,General Referral,4
+Feb-17,Mater Public Hospital,908,Orthopaedic,General Referral,26
+Feb-17,Mater Public Hospital,908,Pain Medicine,General Referral,1
+Feb-17,Mater Public Hospital,908,Psychiatry,General Referral,3
+Feb-17,Mater Public Hospital,908,Respiratory Med,General Referral,1
+Feb-17,Mater Public Hospital,908,Rheumatology,General Referral,3
+Feb-17,Mater Public Hospital,908,Urology,General Referral,13
+Feb-17,Mayo University Hospital,802,Medical,General Referral,1
+Feb-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,22
+Feb-17,Our Lady of Lourdes Hospital,922,ENT,General Referral,1
+Feb-17,Our Lady of Lourdes Hospital,922,Gastroenterology,General Referral,1
+Feb-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,3
+Feb-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,19
+Feb-17,Our Lady of Lourdes Hospital,922,Haematology,General Referral,1
+Feb-17,Our Lady's Children's Hospital Crumlin,941,Allergy,General Referral,4
+Feb-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,19
+Feb-17,Royal Victoria Eye and Ear Hospital,950,Ophthalmology,Ophthalmology Referral,1
+Feb-17,Sligo University Hospital,501,Diabetology,General Referral,1
+Feb-17,Sligo University Hospital,501,ENT,General Referral,7
+Feb-17,Sligo University Hospital,501,Medical,General Referral,40
+Feb-17,Sligo University Hospital,501,Neurology,General Referral,1
+Feb-17,Sligo University Hospital,501,Orthopaedics,General Referral,1
+Feb-17,Sligo University Hospital,501,Paediatrics,General Referral,4
+Feb-17,South Tipperary General Hospital,607,Diabetes Mellitus,General Referral,1
+Feb-17,South Tipperary General Hospital,607,General Medicine,General Referral,9
+Feb-17,South Tipperary General Hospital,607,General Surgery,General Referral,8
+Feb-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,3
+Feb-17,South Tipperary General Hospital,607,Gynaecology,General Referral,9
+Feb-17,South Tipperary General Hospital,607,Obstetrics,General Referral,3
+Feb-17,South Tipperary General Hospital,607,Paediatrics,General Referral,2
+Feb-17,St. Michael's Hospital,912,Cardiology,General Referral,7
+Feb-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,5
+Feb-17,St. Michael's Hospital,912,Dermatology,General Referral,20
+Feb-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,3
+Feb-17,St. Michael's Hospital,912,ENT,General Referral,15
+Feb-17,St. Michael's Hospital,912,Gastroenterology,General Referral,29
+Feb-17,St. Michael's Hospital,912,General Surgery,General Referral,26
+Feb-17,St. Michael's Hospital,912,Gynaecology,General Referral,4
+Feb-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,8
+Feb-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,3
+Feb-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,3
+Feb-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,1
+Feb-17,St. Michael's Hospital,912,Orthopaedics,General Referral,8
+Feb-17,St. Michael's Hospital,912,Pelvic Floor Clinic,General Referral,1
+Feb-17,St. Michael's Hospital,912,Respiratory,General Referral,6
+Feb-17,St. Michael's Hospital,912,Stop HF Unit,General Referral,2
+Feb-17,St. Michael's Hospital,912,Urology,General Referral,2
+Feb-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,11
+Feb-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,3
+Feb-17,Temple Street Children's University Hospital,940,ENT,General Referral,41
+Feb-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,57
+Feb-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,27
+Feb-17,Temple Street Children's University Hospital,940,Plastics,General Referral,7
+Feb-17,Temple Street Children's University Hospital,940,Surgical,General Referral,24
+Feb-17,Temple Street Children's University Hospital,940,Urology,General Referral,13
+Feb-17,UL Hospitals Group,9100,Cardiology,General Referral,63
+Feb-17,UL Hospitals Group,9100,Dermatology,General Referral,1
+Feb-17,UL Hospitals Group,9100,Endocrinology,General Referral,10
+Feb-17,UL Hospitals Group,9100,Gastroenterology,General Referral,4
+Feb-17,UL Hospitals Group,9100,General Medicine,General Referral,17
+Feb-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,10
+Feb-17,UL Hospitals Group,9100,Gynaecology,General Referral,38
+Feb-17,UL Hospitals Group,9100,Nephrology,General Referral,11
+Feb-17,UL Hospitals Group,9100,Ophthalmology,General Referral,10
+Feb-17,UL Hospitals Group,9100,Orthopaedics,General Referral,82
+Feb-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,21
+Feb-17,UL Hospitals Group,9100,Rheumatology,General Referral,1
+Feb-17,UL Hospitals Group,9100,Urology,General Referral,7
+Feb-17,University Hospital Galway,800,Cardio-Thoracic Surgery,General Referral,1
+Feb-17,University Hospital Galway,800,Cardiology,General Referral,53
+Feb-17,University Hospital Galway,800,Clinical Immunology,General Referral,4
+Feb-17,University Hospital Galway,800,Dermatology,General Referral,62
+Feb-17,University Hospital Galway,800,Diabetes,General Referral,7
+Feb-17,University Hospital Galway,800,Endocrinology,General Referral,19
+Feb-17,University Hospital Galway,800,Fertility,General Referral,3
+Feb-17,University Hospital Galway,800,Gastro-Enterology,General Referral,63
+Feb-17,University Hospital Galway,800,General Medicine,General Referral,1
+Feb-17,University Hospital Galway,800,General Surgery,General Referral,57
+Feb-17,University Hospital Galway,800,Geriatric Medicine,General Referral,5
+Feb-17,University Hospital Galway,800,Gynaecology,General Referral,48
+Feb-17,University Hospital Galway,800,Haematology,General Referral,19
+Feb-17,University Hospital Galway,800,Haemochromatosis,General Referral,4
+Feb-17,University Hospital Galway,800,Hepatitis B/C,General Referral,4
+Feb-17,University Hospital Galway,800,Infectious Diseases,General Referral,3
+Feb-17,University Hospital Galway,800,Nephrology,General Referral,12
+Feb-17,University Hospital Galway,800,Neurology,General Referral,30
+Feb-17,University Hospital Galway,800,Obstetrics,General Referral,19
+Feb-17,University Hospital Galway,800,Oncology,General Referral,3
+Feb-17,University Hospital Galway,800,Ophthalmology,General Referral,43
+Feb-17,University Hospital Galway,800,Oral Surgery,General Referral,7
+Feb-17,University Hospital Galway,800,Orthopaedics,General Referral,80
+Feb-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,87
+Feb-17,University Hospital Galway,800,Paediatrics,General Referral,48
+Feb-17,University Hospital Galway,800,Pain Clinic,General Referral,3
+Feb-17,University Hospital Galway,800,Plastic Surgery,General Referral,94
+Feb-17,University Hospital Galway,800,Respiratory Medicine,General Referral,18
+Feb-17,University Hospital Galway,800,Rheumatology,General Referral,23
+Feb-17,University Hospital Galway,800,Sleep,General Referral,8
+Feb-17,University Hospital Galway,800,Urology,General Referral,58
+Feb-17,University Hospital Galway,800,Vascular Surgery,General Referral,37
+Mar-17,Beaumont Hospital,923,Anaesthetics,General Referral,3
+Mar-17,Beaumont Hospital,923,Cardiology,General Referral,54
+Mar-17,Beaumont Hospital,923,Clinical Immunology,General Referral,8
+Mar-17,Beaumont Hospital,923,Dermatology,General Referral,70
+Mar-17,Beaumont Hospital,923,Endocrinology,General Referral,18
+Mar-17,Beaumont Hospital,923,ENT,General Referral,84
+Mar-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,81
+Mar-17,Beaumont Hospital,923,General Surgery,General Referral,73
+Mar-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,16
+Mar-17,Beaumont Hospital,923,Gynaecology,General Referral,13
+Mar-17,Beaumont Hospital,923,Haematology,General Referral,9
+Mar-17,Beaumont Hospital,923,Infectious Diseases,General Referral,1
+Mar-17,Beaumont Hospital,923,Maxillo-Facial,General Referral,1
+Mar-17,Beaumont Hospital,923,Nephrology,General Referral,7
+Mar-17,Beaumont Hospital,923,Neurology,General Referral,39
+Mar-17,Beaumont Hospital,923,Neurosurgery,General Referral,33
+Mar-17,Beaumont Hospital,923,Oncology,General Referral,2
+Mar-17,Beaumont Hospital,923,Ophthalmology,General Referral,10
+Mar-17,Beaumont Hospital,923,Orthopaedics,General Referral,52
+Mar-17,Beaumont Hospital,923,Pain Relief,General Referral,18
+Mar-17,Beaumont Hospital,923,Plastic Surgery,General Referral,46
+Mar-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,34
+Mar-17,Beaumont Hospital,923,Rheumatology,General Referral,23
+Mar-17,Beaumont Hospital,923,Urology,General Referral,64
+Mar-17,Beaumont Hospital,923,Vascular Surgery,General Referral,33
+Mar-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,13
+Mar-17,Cappagh National Orthopaedic Hospital,955,Rheumatology,General Referral,2
+Mar-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,18
+Mar-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,28
+Mar-17,Cavan Monaghan Hospital,402,ENT,General Referral,45
+Mar-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,52
+Mar-17,Cavan Monaghan Hospital,402,Haematology,General Referral,2
+Mar-17,Cavan Monaghan Hospital,402,Medical,General Referral,64
+Mar-17,Cavan Monaghan Hospital,402,Neurology,General Referral,3
+Mar-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,54
+Mar-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,21
+Mar-17,Cavan Monaghan Hospital,402,Surgical,General Referral,139
+Mar-17,Connolly Hospital,108,Cardiology,General Referral,25
+Mar-17,Connolly Hospital,108,Endocrinology,General Referral,8
+Mar-17,Connolly Hospital,108,Gastroenterology,General Referral,13
+Mar-17,Connolly Hospital,108,General Surgery,General Referral,9
+Mar-17,Connolly Hospital,108,Haematology,General Referral,4
+Mar-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,6
+Mar-17,Connolly Hospital,108,Orthopaedic,General Referral,18
+Mar-17,Connolly Hospital,108,Respiratory,General Referral,2
+Mar-17,Connolly Hospital,108,Rheumatology,General Referral,16
+Mar-17,Connolly Hospital,108,Urology,General Referral,2
+Mar-17,County Clinic Longford,9103,Surgical,General Referral,1
+Mar-17,Letterkenny University Hospital,500,Antenatal,General Referral,31
+Mar-17,Letterkenny University Hospital,500,Cardiology,General Referral,27
+Mar-17,Letterkenny University Hospital,500,Colorectal,General Referral,13
+Mar-17,Letterkenny University Hospital,500,Colposcopy,General Referral,4
+Mar-17,Letterkenny University Hospital,500,Day Services,General Referral,43
+Mar-17,Letterkenny University Hospital,500,Dermatology,General Referral,39
+Mar-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,55
+Mar-17,Letterkenny University Hospital,500,Endocrinology,General Referral,5
+Mar-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,26
+Mar-17,Letterkenny University Hospital,500,Gynaecology,General Referral,33
+Mar-17,Letterkenny University Hospital,500,Haematology,General Referral,5
+Mar-17,Letterkenny University Hospital,500,Medical,General Referral,20
+Mar-17,Letterkenny University Hospital,500,Nephrology,General Referral,2
+Mar-17,Letterkenny University Hospital,500,Neurology,General Referral,2
+Mar-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,20
+Mar-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,47
+Mar-17,Letterkenny University Hospital,500,Paediatrics,General Referral,22
+Mar-17,Letterkenny University Hospital,500,Respiratory,General Referral,11
+Mar-17,Letterkenny University Hospital,500,Rheumatology,General Referral,7
+Mar-17,Letterkenny University Hospital,500,Surgical,General Referral,51
+Mar-17,Letterkenny University Hospital,500,Urodynamics,General Referral,2
+Mar-17,Letterkenny University Hospital,500,Urology,General Referral,18
+Mar-17,Letterkenny University Hospital,500,X-Ray,General Referral,4
+Mar-17,Louth County Hospital,400,Surgery,General Referral,9
+Mar-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,4
+Mar-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,4
+Mar-17,Mater Public Hospital,908,Dermatology,General Referral,2
+Mar-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,4
+Mar-17,Mater Public Hospital,908,ENT Surgery,General Referral,2
+Mar-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,10
+Mar-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,3
+Mar-17,Mater Public Hospital,908,General Surgery,General Referral,2
+Mar-17,Mater Public Hospital,908,Gynaecology,General Referral,3
+Mar-17,Mater Public Hospital,908,Infectious Diseases,General Referral,4
+Mar-17,Mater Public Hospital,908,Neurology,General Referral,10
+Mar-17,Mater Public Hospital,908,Ophthalmology,General Referral,12
+Mar-17,Mater Public Hospital,908,Orthopaedic,General Referral,31
+Mar-17,Mater Public Hospital,908,Plastic Surgery,General Referral,3
+Mar-17,Mater Public Hospital,908,Respiratory Med,General Referral,1
+Mar-17,Mater Public Hospital,908,Rheumatology,General Referral,4
+Mar-17,Mater Public Hospital,908,Urology,General Referral,14
+Mar-17,Mayo University Hospital,802,Medical,General Referral,3
+Mar-17,Mayo University Hospital,802,Paediatrics,General Referral,2
+Mar-17,Midland Regional Hospital Portlaoise,201,Endocrinology,General Referral,1
+Mar-17,Mullingar Midland Regional Hospital,202,Cardiology,General Referral,2
+Mar-17,Mullingar Midland Regional Hospital,202,General Medicine,General Referral,1
+Mar-17,Mullingar Midland Regional Hospital,202,Gynaecology,General Referral,1
+Mar-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,20
+Mar-17,Our Lady of Lourdes Hospital,922,ENT,General Referral,2
+Mar-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,4
+Mar-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,9
+Mar-17,Our Lady of Lourdes Hospital,922,Paediatrics,General Referral,3
+Mar-17,Our Lady of Lourdes Hospital,922,Respiratory Medicine,General Referral,1
+Mar-17,Our Lady of Lourdes Hospital,922,Urology,General Referral,1
+Mar-17,Our Lady's Children's Hospital Crumlin,941,Allergy,General Referral,16
+Mar-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,36
+Mar-17,Royal Victoria Eye and Ear Hospital,950,Ophthalmology,Ophthalmology Referral,1
+Mar-17,Sligo University Hospital,501,Diabetology,General Referral,1
+Mar-17,Sligo University Hospital,501,ENT,General Referral,3
+Mar-17,Sligo University Hospital,501,Medical,General Referral,33
+Mar-17,Sligo University Hospital,501,Orthopaedics,General Referral,2
+Mar-17,Sligo University Hospital,501,Paediatrics,General Referral,8
+Mar-17,South Tipperary General Hospital,607,Cardiology,General Referral,3
+Mar-17,South Tipperary General Hospital,607,Diabetes Mellitus,General Referral,2
+Mar-17,South Tipperary General Hospital,607,General Medicine,General Referral,11
+Mar-17,South Tipperary General Hospital,607,General Surgery,General Referral,41
+Mar-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,3
+Mar-17,South Tipperary General Hospital,607,Gynaecology,General Referral,8
+Mar-17,South Tipperary General Hospital,607,Obstetrics,General Referral,3
+Mar-17,South Tipperary General Hospital,607,Paediatrics,General Referral,2
+Mar-17,St. Michael's Hospital,912,Cardiology,General Referral,9
+Mar-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,2
+Mar-17,St. Michael's Hospital,912,Dermatology,General Referral,24
+Mar-17,St. Michael's Hospital,912,Diabetes,General Referral,3
+Mar-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,2
+Mar-17,St. Michael's Hospital,912,ENT,General Referral,23
+Mar-17,St. Michael's Hospital,912,Gastroenterology,General Referral,28
+Mar-17,St. Michael's Hospital,912,General Surgery,General Referral,25
+Mar-17,St. Michael's Hospital,912,Gynaecology,General Referral,10
+Mar-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,5
+Mar-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,5
+Mar-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,1
+Mar-17,St. Michael's Hospital,912,Ophthalmology (Children),General Referral,3
+Mar-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,3
+Mar-17,St. Michael's Hospital,912,Orthopaedics,General Referral,6
+Mar-17,St. Michael's Hospital,912,Pelvic Floor Clinic,General Referral,1
+Mar-17,St. Michael's Hospital,912,Respiratory,General Referral,10
+Mar-17,St. Michael's Hospital,912,Stop HF Unit,General Referral,1
+Mar-17,St. Michael's Hospital,912,Urology,General Referral,5
+Mar-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,10
+Mar-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,6
+Mar-17,Temple Street Children's University Hospital,940,ENT,General Referral,37
+Mar-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,64
+Mar-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,22
+Mar-17,Temple Street Children's University Hospital,940,Plastics,General Referral,8
+Mar-17,Temple Street Children's University Hospital,940,Surgical,General Referral,21
+Mar-17,Temple Street Children's University Hospital,940,Urology,General Referral,11
+Mar-17,UL Hospitals Group,9100,Cardiology,General Referral,68
+Mar-17,UL Hospitals Group,9100,Dermatology,General Referral,2
+Mar-17,UL Hospitals Group,9100,Endocrinology,General Referral,24
+Mar-17,UL Hospitals Group,9100,Gastroenterology,General Referral,15
+Mar-17,UL Hospitals Group,9100,General Medicine,General Referral,8
+Mar-17,UL Hospitals Group,9100,General Surgery,General Referral,2
+Mar-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,9
+Mar-17,UL Hospitals Group,9100,Gynaecology,General Referral,71
+Mar-17,UL Hospitals Group,9100,Nephrology,General Referral,8
+Mar-17,UL Hospitals Group,9100,Neurology,General Referral,1
+Mar-17,UL Hospitals Group,9100,Oncology,General Referral,1
+Mar-17,UL Hospitals Group,9100,Ophthalmology,General Referral,9
+Mar-17,UL Hospitals Group,9100,Orthopaedics,General Referral,23
+Mar-17,UL Hospitals Group,9100,Paediatrics,General Referral,3
+Mar-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,35
+Mar-17,UL Hospitals Group,9100,Urology,General Referral,7
+Mar-17,University Hospital Galway,800,Anaesthetics,General Referral,1
+Mar-17,University Hospital Galway,800,Cardio-Thoracic Surgery,General Referral,1
+Mar-17,University Hospital Galway,800,Cardiology,General Referral,58
+Mar-17,University Hospital Galway,800,Clinical Immunology,General Referral,4
+Mar-17,University Hospital Galway,800,Clinical Pharmacology,General Referral,1
+Mar-17,University Hospital Galway,800,Dermatology,General Referral,58
+Mar-17,University Hospital Galway,800,Diabetes,General Referral,7
+Mar-17,University Hospital Galway,800,Endocrinology,General Referral,26
+Mar-17,University Hospital Galway,800,Fertility,General Referral,2
+Mar-17,University Hospital Galway,800,Gastro-Enterology,General Referral,72
+Mar-17,University Hospital Galway,800,General Medicine,General Referral,2
+Mar-17,University Hospital Galway,800,General Surgery,General Referral,82
+Mar-17,University Hospital Galway,800,Geriatric Medicine,General Referral,3
+Mar-17,University Hospital Galway,800,Gynaecology,General Referral,52
+Mar-17,University Hospital Galway,800,Haematology,General Referral,18
+Mar-17,University Hospital Galway,800,Haemochromatosis,General Referral,2
+Mar-17,University Hospital Galway,800,Hepatitis B/C,General Referral,1
+Mar-17,University Hospital Galway,800,Infectious Diseases,General Referral,2
+Mar-17,University Hospital Galway,800,Nephrology,General Referral,6
+Mar-17,University Hospital Galway,800,Neurology,General Referral,28
+Mar-17,University Hospital Galway,800,Obstetrics,General Referral,26
+Mar-17,University Hospital Galway,800,Oncology,General Referral,3
+Mar-17,University Hospital Galway,800,Ophthalmology,General Referral,38
+Mar-17,University Hospital Galway,800,Oral Surgery,General Referral,7
+Mar-17,University Hospital Galway,800,Orthopaedics,General Referral,110
+Mar-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,120
+Mar-17,University Hospital Galway,800,Paediatrics,General Referral,65
+Mar-17,University Hospital Galway,800,Pain Clinic,General Referral,4
+Mar-17,University Hospital Galway,800,Plastic Surgery,General Referral,113
+Mar-17,University Hospital Galway,800,Respiratory Medicine,General Referral,23
+Mar-17,University Hospital Galway,800,Rheumatology,General Referral,32
+Mar-17,University Hospital Galway,800,Sleep,General Referral,2
+Mar-17,University Hospital Galway,800,Urology,General Referral,63
+Mar-17,University Hospital Galway,800,Vascular Surgery,General Referral,38
+Mar-17,University Hospital Waterford,600,Orthopaedics,General Referral,4
+Apr-17,AMNCH,1049,Cardiology,General Referral,3
+Apr-17,AMNCH,1049,Clinical Neurophysiology,General Referral,2
+Apr-17,AMNCH,1049,Dermatology,General Referral,11
+Apr-17,AMNCH,1049,Endocrinology/Chemical Pathology,General Referral,4
+Apr-17,AMNCH,1049,ENT,General Referral,19
+Apr-17,AMNCH,1049,Gastroenterology,General Referral,12
+Apr-17,AMNCH,1049,Geriatric Medicine,General Referral,1
+Apr-17,AMNCH,1049,Gynaecology,General Referral,8
+Apr-17,AMNCH,1049,Haematology,General Referral,2
+Apr-17,AMNCH,1049,Nephrology,General Referral,5
+Apr-17,AMNCH,1049,Neurology,General Referral,5
+Apr-17,AMNCH,1049,Ophthalmology,General Referral,1
+Apr-17,AMNCH,1049,Orthopaedics,General Referral,19
+Apr-17,AMNCH,1049,Paediatric Cardiology,General Referral,1
+Apr-17,AMNCH,1049,Paediatric Dermatology,General Referral,1
+Apr-17,AMNCH,1049,Paediatric ENT,General Referral,3
+Apr-17,AMNCH,1049,Paediatric Gastroenterology,General Referral,1
+Apr-17,AMNCH,1049,Paediatric General Surgery,General Referral,3
+Apr-17,AMNCH,1049,Paediatric Medicine,General Referral,7
+Apr-17,AMNCH,1049,Paediatric Neurology,General Referral,1
+Apr-17,AMNCH,1049,Paediatric Respiratory,General Referral,1
+Apr-17,AMNCH,1049,Pain Medicine,General Referral,3
+Apr-17,AMNCH,1049,Pigmented Lesion,Pigmented Lesion Referral,2
+Apr-17,AMNCH,1049,Rehabilitation Medicine,General Referral,1
+Apr-17,AMNCH,1049,Respiratory,General Referral,2
+Apr-17,AMNCH,1049,Rheumatology,General Referral,4
+Apr-17,AMNCH,1049,Surgery,General Referral,15
+Apr-17,AMNCH,1049,Urology,General Referral,15
+Apr-17,AMNCH,1049,Vascular,General Referral,6
+Apr-17,Bantry General Hospital,704,Gastroenterology,General Referral,1
+Apr-17,Bantry General Hospital,704,General Medicine,General Referral,7
+Apr-17,Bantry General Hospital,704,General Surgery,General Referral,20
+Apr-17,Bantry General Hospital,704,Medicine for the Elderly,General Referral,1
+Apr-17,Bantry General Hospital,704,Outreach Dermatology,General Referral,2
+Apr-17,Bantry General Hospital,704,Outreach Orthopaedics,General Referral,5
+Apr-17,Bantry General Hospital,704,Outreach Surgical,General Referral,3
+Apr-17,Beaumont Hospital,923,Anaesthetics,General Referral,1
+Apr-17,Beaumont Hospital,923,Beaumont Breast Clinic,Breast Clinic Referral,66
+Apr-17,Beaumont Hospital,923,Beaumont Prostate Clinic,Prostate Cancer Referral,6
+Apr-17,Beaumont Hospital,923,Cardiology,General Referral,42
+Apr-17,Beaumont Hospital,923,Clinical Immunology,General Referral,10
+Apr-17,Beaumont Hospital,923,Dermatology,General Referral,69
+Apr-17,Beaumont Hospital,923,Endocrinology,General Referral,14
+Apr-17,Beaumont Hospital,923,ENT,General Referral,64
+Apr-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,55
+Apr-17,Beaumont Hospital,923,General Surgery,General Referral,58
+Apr-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,11
+Apr-17,Beaumont Hospital,923,Gynaecology,General Referral,12
+Apr-17,Beaumont Hospital,923,Haematology,General Referral,8
+Apr-17,Beaumont Hospital,923,Maxillo-Facial,General Referral,4
+Apr-17,Beaumont Hospital,923,Nephrology,General Referral,10
+Apr-17,Beaumont Hospital,923,Neurology,General Referral,42
+Apr-17,Beaumont Hospital,923,Neurosurgery,General Referral,38
+Apr-17,Beaumont Hospital,923,Oncology,General Referral,1
+Apr-17,Beaumont Hospital,923,Ophthalmology,General Referral,12
+Apr-17,Beaumont Hospital,923,Orthopaedics,General Referral,52
+Apr-17,Beaumont Hospital,923,Pain Relief,General Referral,13
+Apr-17,Beaumont Hospital,923,Plastic Surgery,General Referral,37
+Apr-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,31
+Apr-17,Beaumont Hospital,923,Rheumatology,General Referral,20
+Apr-17,Beaumont Hospital,923,Urology,General Referral,48
+Apr-17,Beaumont Hospital,923,Vascular Surgery,General Referral,32
+Apr-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,25
+Apr-17,Cappagh National Orthopaedic Hospital,955,Rheumatology,General Referral,2
+Apr-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,13
+Apr-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,27
+Apr-17,Cavan Monaghan Hospital,402,ENT,General Referral,43
+Apr-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,34
+Apr-17,Cavan Monaghan Hospital,402,Haematology,General Referral,2
+Apr-17,Cavan Monaghan Hospital,402,Medical,General Referral,64
+Apr-17,Cavan Monaghan Hospital,402,Neurology,General Referral,8
+Apr-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,35
+Apr-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,36
+Apr-17,Cavan Monaghan Hospital,402,Surgical,General Referral,109
+Apr-17,Connolly Hospital,108,Cardiology,General Referral,14
+Apr-17,Connolly Hospital,108,Dermatology,General Referral,4
+Apr-17,Connolly Hospital,108,Endocrinology,General Referral,11
+Apr-17,Connolly Hospital,108,ENT,General Referral,11
+Apr-17,Connolly Hospital,108,Gastroenterology,General Referral,14
+Apr-17,Connolly Hospital,108,General Surgery,General Referral,21
+Apr-17,Connolly Hospital,108,Gynaecology,General Referral,2
+Apr-17,Connolly Hospital,108,Haematology,General Referral,4
+Apr-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,10
+Apr-17,Connolly Hospital,108,Nephrology,General Referral,1
+Apr-17,Connolly Hospital,108,Orthopaedic,General Referral,31
+Apr-17,Connolly Hospital,108,Plastic Surgery,General Referral,6
+Apr-17,Connolly Hospital,108,Respiratory,General Referral,10
+Apr-17,Connolly Hospital,108,Rheumatology,General Referral,9
+Apr-17,Connolly Hospital,108,Urology,General Referral,10
+Apr-17,Coombe Women & Infants University Hospital,930,Gynaecology,General Referral,14
+Apr-17,Cork University Hospital,724,Cardiology,General Referral,17
+Apr-17,Cork University Hospital,724,CUH Referral Centre,Breast Clinic Referral,95
+Apr-17,Cork University Hospital,724,CUH Referral Centre,Lung Cancer Referral,6
+Apr-17,Cork University Hospital,724,CUH Referral Centre,Prostate Cancer Referral,7
+Apr-17,Cork University Hospital,724,Endocrinology,General Referral,10
+Apr-17,Cork University Hospital,724,Gastroenterology,General Referral,10
+Apr-17,Cork University Hospital,724,General Surgery,General Referral,28
+Apr-17,Cork University Hospital,724,Gynaecology,General Referral,29
+Apr-17,Cork University Hospital,724,Medicine for the Elderly,General Referral,3
+Apr-17,Cork University Hospital,724,Nephrology,General Referral,6
+Apr-17,Cork University Hospital,724,Neurology,General Referral,14
+Apr-17,Cork University Hospital,724,Neurosurgery,General Referral,11
+Apr-17,Cork University Hospital,724,Ophthalmology,General Referral,25
+Apr-17,Cork University Hospital,724,Paediatric Endocrinology,General Referral,3
+Apr-17,Cork University Hospital,724,Paediatric Medicine,General Referral,18
+Apr-17,Cork University Hospital,724,Plastic Surgery,General Referral,13
+Apr-17,Cork University Hospital,724,Respiratory,General Referral,9
+Apr-17,Cork University Hospital,724,Rheumatology,General Referral,10
+Apr-17,Cork University Hospital,724,Urology,General Referral,11
+Apr-17,Cork University Hospital,724,Vascular,General Referral,12
+Apr-17,County Clinic Longford,9103,Gynaecology,General Referral,1
+Apr-17,County Clinic Longford,9103,Surgical,General Referral,8
+Apr-17,Kerry General Hospital,726,Audiology,General Referral,2
+Apr-17,Kerry General Hospital,726,Cardiology,General Referral,12
+Apr-17,Kerry General Hospital,726,Dermatology,General Referral,16
+Apr-17,Kerry General Hospital,726,Diabetes,General Referral,1
+Apr-17,Kerry General Hospital,726,Ear Nose and Throat,General Referral,11
+Apr-17,Kerry General Hospital,726,Endocrinology,General Referral,2
+Apr-17,Kerry General Hospital,726,General Medicine,General Referral,12
+Apr-17,Kerry General Hospital,726,General Surgery,General Referral,88
+Apr-17,Kerry General Hospital,726,Gynaecology,General Referral,22
+Apr-17,Kerry General Hospital,726,Medicine for the Elderly,General Referral,5
+Apr-17,Kerry General Hospital,726,Neurology,General Referral,1
+Apr-17,Kerry General Hospital,726,Orthopaedics,General Referral,25
+Apr-17,Kerry General Hospital,726,Paediatrics,General Referral,9
+Apr-17,Kerry General Hospital,726,Plastic Surgery,General Referral,4
+Apr-17,Kerry General Hospital,726,Renal,General Referral,2
+Apr-17,Kerry General Hospital,726,Rheumatology,General Referral,5
+Apr-17,Letterkenny University Hospital,500,Antenatal,General Referral,23
+Apr-17,Letterkenny University Hospital,500,Cardiology,General Referral,21
+Apr-17,Letterkenny University Hospital,500,Colorectal,General Referral,16
+Apr-17,Letterkenny University Hospital,500,Colposcopy,General Referral,1
+Apr-17,Letterkenny University Hospital,500,Day Services,General Referral,33
+Apr-17,Letterkenny University Hospital,500,Dermatology,General Referral,31
+Apr-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,44
+Apr-17,Letterkenny University Hospital,500,Endocrinology,General Referral,3
+Apr-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,17
+Apr-17,Letterkenny University Hospital,500,Gynaecology,General Referral,30
+Apr-17,Letterkenny University Hospital,500,Haematology,General Referral,4
+Apr-17,Letterkenny University Hospital,500,Letterkenny Breast Unit,Breast Clinic Referral,22
+Apr-17,Letterkenny University Hospital,500,Medical,General Referral,11
+Apr-17,Letterkenny University Hospital,500,Nephrology,General Referral,1
+Apr-17,Letterkenny University Hospital,500,Neurology,General Referral,2
+Apr-17,Letterkenny University Hospital,500,Oncology,General Referral,4
+Apr-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,13
+Apr-17,Letterkenny University Hospital,500,Oral Surgery,General Referral,4
+Apr-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,43
+Apr-17,Letterkenny University Hospital,500,Paediatrics,General Referral,20
+Apr-17,Letterkenny University Hospital,500,Respiratory,General Referral,5
+Apr-17,Letterkenny University Hospital,500,Rheumatology,General Referral,5
+Apr-17,Letterkenny University Hospital,500,Surgical,General Referral,35
+Apr-17,Letterkenny University Hospital,500,Urodynamics,General Referral,1
+Apr-17,Letterkenny University Hospital,500,Urology,General Referral,20
+Apr-17,Letterkenny University Hospital,500,X-Ray,General Referral,3
+Apr-17,Louth County Hospital,400,Endocrinology,General Referral,4
+Apr-17,Louth County Hospital,400,Gynaecology,General Referral,7
+Apr-17,Louth County Hospital,400,Orthopaedics,General Referral,19
+Apr-17,Louth County Hospital,400,Surgery,General Referral,24
+Apr-17,Louth County Hospital,400,Urology,General Referral,2
+Apr-17,Mallow General Hospital,703,Ear Nose and Throat,General Referral,17
+Apr-17,Mallow General Hospital,703,General Medicine,General Referral,14
+Apr-17,Mallow General Hospital,703,General Surgery,General Referral,23
+Apr-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,3
+Apr-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,5
+Apr-17,Mater Public Hospital,908,Dermatology,General Referral,20
+Apr-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,6
+Apr-17,Mater Public Hospital,908,ENT Surgery,General Referral,17
+Apr-17,Mater Public Hospital,908,Gastroenterology,General Referral,18
+Apr-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,9
+Apr-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,9
+Apr-17,Mater Public Hospital,908,General Surgery,General Referral,8
+Apr-17,Mater Public Hospital,908,Geriatrics,General Referral,3
+Apr-17,Mater Public Hospital,908,Gynaecology,General Referral,6
+Apr-17,Mater Public Hospital,908,Haematology,General Referral,2
+Apr-17,Mater Public Hospital,908,Hepatobiliary,General Referral,1
+Apr-17,Mater Public Hospital,908,Hepatology,General Referral,2
+Apr-17,Mater Public Hospital,908,Infectious Diseases,General Referral,1
+Apr-17,Mater Public Hospital,908,Mater Lung Clinic,Lung Cancer Referral,6
+Apr-17,Mater Public Hospital,908,Mater Prostate Clinic,Prostate Cancer Referral,3
+Apr-17,Mater Public Hospital,908,Mater Public Breast Unit,Breast Clinic Referral,120
+Apr-17,Mater Public Hospital,908,Nephrology,General Referral,2
+Apr-17,Mater Public Hospital,908,Neurology,General Referral,17
+Apr-17,Mater Public Hospital,908,Ophthalmology,General Referral,25
+Apr-17,Mater Public Hospital,908,Orthopaedic,General Referral,31
+Apr-17,Mater Public Hospital,908,Pain Medicine,General Referral,3
+Apr-17,Mater Public Hospital,908,Plastic Surgery,General Referral,10
+Apr-17,Mater Public Hospital,908,Respiratory Med,General Referral,2
+Apr-17,Mater Public Hospital,908,Rheumatology,General Referral,6
+Apr-17,Mater Public Hospital,908,Urology,General Referral,18
+Apr-17,Mayo University Hospital,802,Diabetic,General Referral,1
+Apr-17,Mayo University Hospital,802,ENT,General Referral,9
+Apr-17,Mayo University Hospital,802,Gynaecology,General Referral,7
+Apr-17,Mayo University Hospital,802,Medical,General Referral,16
+Apr-17,Mayo University Hospital,802,Nephrology,General Referral,1
+Apr-17,Mayo University Hospital,802,Obstetrics,General Referral,9
+Apr-17,Mayo University Hospital,802,Orthopaedic,General Referral,28
+Apr-17,Mayo University Hospital,802,Paediatrics,General Referral,14
+Apr-17,Mayo University Hospital,802,Surgical,General Referral,23
+Apr-17,Mercy University Hospital,913,Cardiology,General Referral,11
+Apr-17,Mercy University Hospital,913,Endocrinology,General Referral,3
+Apr-17,Mercy University Hospital,913,Gastroenterology,General Referral,20
+Apr-17,Mercy University Hospital,913,General Surgery,General Referral,12
+Apr-17,Mercy University Hospital,913,Haematology,General Referral,3
+Apr-17,Mercy University Hospital,913,Heptobiliary and Pancreatic,General Referral,1
+Apr-17,Mercy University Hospital,913,Medicine for the Elderly,General Referral,2
+Apr-17,Mercy University Hospital,913,Neurology,General Referral,5
+Apr-17,Mercy University Hospital,913,Paediatrics,General Referral,9
+Apr-17,Mercy University Hospital,913,Pain Medicine,General Referral,2
+Apr-17,Mercy University Hospital,913,Radiology,General Referral,122
+Apr-17,Mercy University Hospital,913,Respiratory,General Referral,5
+Apr-17,Mercy University Hospital,913,Urology,General Referral,13
+Apr-17,Mercy University Hospital,913,Vascular,General Referral,17
+Apr-17,Merlin Park University Hospital,801,Radiology,General Referral,6
+Apr-17,Midland Regional Hospital Portlaoise,201,Cardiology,General Referral,6
+Apr-17,Midland Regional Hospital Portlaoise,201,Gynaecology,General Referral,7
+Apr-17,Midland Regional Hospital Portlaoise,201,Medical,General Referral,2
+Apr-17,Midland Regional Hospital Portlaoise,201,Obstetric,General Referral,1
+Apr-17,Midland Regional Hospital Portlaoise,201,Ophthalmology,General Referral,2
+Apr-17,Midland Regional Hospital Portlaoise,201,Paediatrics,General Referral,2
+Apr-17,Midland Regional Hospital Portlaoise,201,Surgical,General Referral,11
+Apr-17,Midland Regional Hospital Portlaoise,201,Urology,General Referral,2
+Apr-17,Mullingar Midland Regional Hospital,202,Cardiology,General Referral,8
+Apr-17,Mullingar Midland Regional Hospital,202,Dermatology,General Referral,12
+Apr-17,Mullingar Midland Regional Hospital,202,Diabetes Mellitus,General Referral,1
+Apr-17,Mullingar Midland Regional Hospital,202,Endocrinology,General Referral,4
+Apr-17,Mullingar Midland Regional Hospital,202,General Medicine,General Referral,17
+Apr-17,Mullingar Midland Regional Hospital,202,General Surgery,General Referral,20
+Apr-17,Mullingar Midland Regional Hospital,202,Geriatric Medicine,General Referral,4
+Apr-17,Mullingar Midland Regional Hospital,202,Gynaecology,General Referral,26
+Apr-17,Mullingar Midland Regional Hospital,202,Haematology,General Referral,3
+Apr-17,Mullingar Midland Regional Hospital,202,Obstetrics,General Referral,9
+Apr-17,Mullingar Midland Regional Hospital,202,Ophthalmology,General Referral,2
+Apr-17,Mullingar Midland Regional Hospital,202,Orthopaedic,General Referral,3
+Apr-17,Mullingar Midland Regional Hospital,202,Paediatrics,General Referral,3
+Apr-17,Mullingar Midland Regional Hospital,202,Respiratory,General Referral,10
+Apr-17,Naas General Hospital,102,Cardiology,General Referral,4
+Apr-17,Naas General Hospital,102,Dermatology,General Referral,4
+Apr-17,Naas General Hospital,102,Gastroenterology,General Referral,6
+Apr-17,Naas General Hospital,102,General Surgical,General Referral,15
+Apr-17,Naas General Hospital,102,Geriatrics,General Referral,2
+Apr-17,Naas General Hospital,102,Orthopaedics,General Referral,8
+Apr-17,Naas General Hospital,102,Respiratory,General Referral,3
+Apr-17,National Maternity Hospital Holles Street,931,Gynaecology,General Referral,8
+Apr-17,National Maternity Hospital Holles Street,931,Obstetrics,General Referral,8
+Apr-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,31
+Apr-17,Our Lady of Lourdes Hospital,922,Dermatology,General Referral,22
+Apr-17,Our Lady of Lourdes Hospital,922,Endocrinology,General Referral,1
+Apr-17,Our Lady of Lourdes Hospital,922,ENT,General Referral,18
+Apr-17,Our Lady of Lourdes Hospital,922,Gastroenterology,General Referral,1
+Apr-17,Our Lady of Lourdes Hospital,922,General Medicine,General Referral,6
+Apr-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,14
+Apr-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,17
+Apr-17,Our Lady of Lourdes Hospital,922,Haematology,General Referral,1
+Apr-17,Our Lady of Lourdes Hospital,922,Minor Ops,General Referral,2
+Apr-17,Our Lady of Lourdes Hospital,922,Nephrology,General Referral,4
+Apr-17,Our Lady of Lourdes Hospital,922,Ophthalmology,General Referral,2
+Apr-17,Our Lady of Lourdes Hospital,922,Paediatric Orthopaedics,General Referral,4
+Apr-17,Our Lady of Lourdes Hospital,922,Paediatric Surgery,General Referral,2
+Apr-17,Our Lady of Lourdes Hospital,922,Paediatrics,General Referral,8
+Apr-17,Our Lady of Lourdes Hospital,922,Pigmented Lesion,Pigmented Lesion Referral,8
+Apr-17,Our Lady of Lourdes Hospital,922,Respiratory Medicine,General Referral,6
+Apr-17,Our Lady of Lourdes Hospital,922,Tropical Medicine,General Referral,1
+Apr-17,Our Lady of Lourdes Hospital,922,Urology,General Referral,9
+Apr-17,Our Lady's Children's Hospital Crumlin,941,Allergy,General Referral,10
+Apr-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,33
+Apr-17,Our Lady's Hospital Navan,403,Cardiology,General Referral,3
+Apr-17,Our Lady's Hospital Navan,403,Diabetic,General Referral,1
+Apr-17,Our Lady's Hospital Navan,403,Endocrinology,General Referral,1
+Apr-17,Our Lady's Hospital Navan,403,Gastroenterology,General Referral,4
+Apr-17,Our Lady's Hospital Navan,403,General Surgery,General Referral,24
+Apr-17,Our Lady's Hospital Navan,403,Geriatric / Memory Loss,General Referral,1
+Apr-17,Our Lady's Hospital Navan,403,Gynaecology,General Referral,1
+Apr-17,Our Lady's Hospital Navan,403,Orthopaedic,General Referral,28
+Apr-17,Our Lady's Hospital Navan,403,Respiratory,General Referral,2
+Apr-17,Our Lady's Hospital Navan,403,Rheumatology,General Referral,10
+Apr-17,Portiuncula University Hospital,919,Cardiac,General Referral,10
+Apr-17,Portiuncula University Hospital,919,Dermatology,General Referral,1
+Apr-17,Portiuncula University Hospital,919,Endocrinology,General Referral,3
+Apr-17,Portiuncula University Hospital,919,Gynaecology,General Referral,12
+Apr-17,Portiuncula University Hospital,919,Medical,General Referral,11
+Apr-17,Portiuncula University Hospital,919,Nerve Conductive,General Referral,2
+Apr-17,Portiuncula University Hospital,919,Obstetrics,General Referral,6
+Apr-17,Portiuncula University Hospital,919,Paediatrics,General Referral,8
+Apr-17,Portiuncula University Hospital,919,Surgical,General Referral,19
+Apr-17,Portiuncula University Hospital,919,Urology,General Referral,2
+Apr-17,Roscommon University Hospital,803,Endocrine/Diabetes,General Referral,1
+Apr-17,Roscommon University Hospital,803,ENT,General Referral,3
+Apr-17,Roscommon University Hospital,803,Medical,General Referral,4
+Apr-17,Roscommon University Hospital,803,Orthopaedic,General Referral,1
+Apr-17,Roscommon University Hospital,803,Pigmented Lesion,Pigmented Lesion Referral,3
+Apr-17,Roscommon University Hospital,803,Plastics,General Referral,17
+Apr-17,Roscommon University Hospital,803,Surgical,General Referral,13
+Apr-17,Roscommon University Hospital,803,Urology,General Referral,1
+Apr-17,Roscommon University Hospital,803,Vascular,General Referral,2
+Apr-17,Rotunda Hospital,932,Gynaecology,General Referral,21
+Apr-17,Rotunda Hospital,932,Obstetrics,General Referral,9
+Apr-17,Rotunda Hospital,932,Ultrasound,General Referral,1
+Apr-17,Royal Victoria Eye and Ear Hospital,950,ENT,General Referral,7
+Apr-17,Royal Victoria Eye and Ear Hospital,950,Ophthalmology,Ophthalmology Referral,15
+Apr-17,Sligo University Hospital,501,Dermatology,General Referral,7
+Apr-17,Sligo University Hospital,501,ENT,General Referral,17
+Apr-17,Sligo University Hospital,501,General Surgery,General Referral,10
+Apr-17,Sligo University Hospital,501,Medical,General Referral,39
+Apr-17,Sligo University Hospital,501,Ophthalmology,General Referral,8
+Apr-17,Sligo University Hospital,501,Orthopaedics,General Referral,7
+Apr-17,Sligo University Hospital,501,Paediatrics,General Referral,14
+Apr-17,Sligo University Hospital,501,Urology,General Referral,4
+Apr-17,South Infirmary Victoria Hospital,915,Dermatology,General Referral,52
+Apr-17,South Infirmary Victoria Hospital,915,Ear Nose and Throat,General Referral,63
+Apr-17,South Infirmary Victoria Hospital,915,Endocrinology,General Referral,3
+Apr-17,South Infirmary Victoria Hospital,915,General Surgery,General Referral,56
+Apr-17,South Infirmary Victoria Hospital,915,Maxillo Facial,General Referral,4
+Apr-17,South Infirmary Victoria Hospital,915,Orthopaedics,General Referral,54
+Apr-17,South Infirmary Victoria Hospital,915,Pain Medicine,General Referral,11
+Apr-17,South Infirmary Victoria Hospital,915,Pigmented Lesion,Pigmented Lesion Referral,31
+Apr-17,South Infirmary Victoria Hospital,915,Plastic Surgery,General Referral,20
+Apr-17,South Infirmary Victoria Hospital,915,Rheumatology,General Referral,4
+Apr-17,South Tipperary General Hospital,607,Cardiology,General Referral,4
+Apr-17,South Tipperary General Hospital,607,General Medicine,General Referral,14
+Apr-17,South Tipperary General Hospital,607,General Surgery,General Referral,53
+Apr-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,1
+Apr-17,South Tipperary General Hospital,607,Gynaecology,General Referral,17
+Apr-17,South Tipperary General Hospital,607,Obstetrics,General Referral,2
+Apr-17,South Tipperary General Hospital,607,Paediatrics,General Referral,5
+Apr-17,St. Columcille's Hospital,101,Cardiology,General Referral,5
+Apr-17,St. Columcille's Hospital,101,Endocrinology,General Referral,2
+Apr-17,St. Columcille's Hospital,101,Gastroenterology,General Referral,7
+Apr-17,St. Columcille's Hospital,101,General Medicine,General Referral,1
+Apr-17,St. Columcille's Hospital,101,General Surgery,General Referral,8
+Apr-17,St. Columcille's Hospital,101,Gerontology,General Referral,1
+Apr-17,St. Columcille's Hospital,101,Gynaecology,General Referral,1
+Apr-17,St. Columcille's Hospital,101,Pain Management,General Referral,3
+Apr-17,St. Columcille's Hospital,101,Urology,General Referral,4
+Apr-17,St. Columcille's Hospital,101,Vascular,General Referral,1
+Apr-17,St. James's Hospital,904,Dermatology,General Referral,25
+Apr-17,St. James's Hospital,904,Diabetes,General Referral,1
+Apr-17,St. James's Hospital,904,Endocrinology,General Referral,1
+Apr-17,St. James's Hospital,904,Gastroenterology,General Referral,14
+Apr-17,St. James's Hospital,904,Hepatology,General Referral,7
+Apr-17,St. James's Hospital,904,Immunology,General Referral,1
+Apr-17,St. James's Hospital,904,Pigmented Lesion,Pigmented Lesion Referral,13
+Apr-17,St. James's Hospital,904,Respiratory,General Referral,5
+Apr-17,St. James's Hospital,904,Rheumatology,General Referral,3
+Apr-17,St. James's Hospital,904,St. James's Breast Clinic,Breast Clinic Referral,69
+Apr-17,St. James's Hospital,904,St. James's Lung Clinic,Lung Cancer Referral,1
+Apr-17,St. James's Hospital,904,St. James's Neurology Dept.,Neurology Referral,4
+Apr-17,St. James's Hospital,904,St. James's Urology,Prostate Cancer Referral,5
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Cardiology,General Referral,1
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Endocrinology/Diabetes Mellitus,General Referral,1
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Gastroenterology,General Referral,1
+Apr-17,"St. Luke's Hospital, Kilkenny",601,General Medicine,General Referral,1
+Apr-17,"St. Luke's Hospital, Kilkenny",601,General Surgery,General Referral,10
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Gynaecology,General Referral,2
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Hepatology,General Referral,1
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Obstetrics,General Referral,7
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Paediatrics,General Referral,2
+Apr-17,"St. Luke's Hospital, Kilkenny",601,Respiratory,General Referral,2
+Apr-17,St. Michael's Hospital,912,Cardiology,General Referral,5
+Apr-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,2
+Apr-17,St. Michael's Hospital,912,Dermatology,General Referral,11
+Apr-17,St. Michael's Hospital,912,Diabetes,General Referral,3
+Apr-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,4
+Apr-17,St. Michael's Hospital,912,ENT,General Referral,8
+Apr-17,St. Michael's Hospital,912,Gastroenterology,General Referral,19
+Apr-17,St. Michael's Hospital,912,General Surgery,General Referral,14
+Apr-17,St. Michael's Hospital,912,Gynaecology,General Referral,6
+Apr-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,3
+Apr-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,1
+Apr-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,3
+Apr-17,St. Michael's Hospital,912,Ophthalmology (Children),General Referral,1
+Apr-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,3
+Apr-17,St. Michael's Hospital,912,Orthopaedics,General Referral,3
+Apr-17,St. Michael's Hospital,912,Pelvic Floor Clinic,General Referral,2
+Apr-17,St. Michael's Hospital,912,Respiratory,General Referral,16
+Apr-17,St. Michael's Hospital,912,Stop HF Unit,General Referral,1
+Apr-17,St. Michael's Hospital,912,Urology,General Referral,5
+Apr-17,St. Vincent's University Hospital,910,Cardiology,General Referral,9
+Apr-17,St. Vincent's University Hospital,910,Dermatology,General Referral,14
+Apr-17,St. Vincent's University Hospital,910,Endocrinology,General Referral,3
+Apr-17,St. Vincent's University Hospital,910,ENT,General Referral,8
+Apr-17,St. Vincent's University Hospital,910,Gastroenterology,General Referral,8
+Apr-17,St. Vincent's University Hospital,910,General Surgery,General Referral,13
+Apr-17,St. Vincent's University Hospital,910,Geriatrics,General Referral,9
+Apr-17,St. Vincent's University Hospital,910,Gynaecology,General Referral,3
+Apr-17,St. Vincent's University Hospital,910,Haematology,General Referral,2
+Apr-17,St. Vincent's University Hospital,910,Oncology,General Referral,1
+Apr-17,St. Vincent's University Hospital,910,Ophthalmology,General Referral,4
+Apr-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,28
+Apr-17,St. Vincent's University Hospital,910,Pain Management,General Referral,5
+Apr-17,St. Vincent's University Hospital,910,Pigmented Lesion,Pigmented Lesion Referral,9
+Apr-17,St. Vincent's University Hospital,910,Plastics,General Referral,7
+Apr-17,St. Vincent's University Hospital,910,Psychiatry,General Referral,1
+Apr-17,St. Vincent's University Hospital,910,Renal,General Referral,2
+Apr-17,St. Vincent's University Hospital,910,Respiratory,General Referral,6
+Apr-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,21
+Apr-17,St. Vincent's University Hospital,910,St. Vincent's Breast Clinic,Breast Clinic Referral,61
+Apr-17,St. Vincent's University Hospital,910,St. Vincent's Endoscopy,Endoscopy Referral,8
+Apr-17,St. Vincent's University Hospital,910,St. Vincent's Neurology Dept.,Neurology Referral,6
+Apr-17,St. Vincent's University Hospital,910,St. Vincent's Prostate Clinic,Prostate Cancer Referral,6
+Apr-17,St. Vincent's University Hospital,910,St. Vincents Lung Clinic,Lung Cancer Referral,3
+Apr-17,St. Vincent's University Hospital,910,Urology,General Referral,9
+Apr-17,St. Vincent's University Hospital,910,Vascular Surgery,General Referral,3
+Apr-17,Temple Street Children's University Hospital,940,ENT,General Referral,28
+Apr-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,56
+Apr-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,20
+Apr-17,Temple Street Children's University Hospital,940,Plastics,General Referral,12
+Apr-17,Temple Street Children's University Hospital,940,Surgical,General Referral,20
+Apr-17,Temple Street Children's University Hospital,940,Urology,General Referral,8
+Apr-17,Tullamore Midland Regional Hospital,203,Cardiology,General Referral,4
+Apr-17,Tullamore Midland Regional Hospital,203,ENT,General Referral,43
+Apr-17,Tullamore Midland Regional Hospital,203,General Medical,General Referral,6
+Apr-17,Tullamore Midland Regional Hospital,203,General Surgical,General Referral,31
+Apr-17,Tullamore Midland Regional Hospital,203,Haematology,General Referral,5
+Apr-17,Tullamore Midland Regional Hospital,203,Nephrology,General Referral,1
+Apr-17,Tullamore Midland Regional Hospital,203,Obstetrics/Gynae,General Referral,2
+Apr-17,Tullamore Midland Regional Hospital,203,Ophthalmology,General Referral,5
+Apr-17,Tullamore Midland Regional Hospital,203,Orthopaedics,General Referral,36
+Apr-17,Tullamore Midland Regional Hospital,203,Rheumatology,General Referral,8
+Apr-17,UL Hospitals Group,9100,Cardiology,General Referral,63
+Apr-17,UL Hospitals Group,9100,Dermatology,General Referral,39
+Apr-17,UL Hospitals Group,9100,Endocrinology,General Referral,35
+Apr-17,UL Hospitals Group,9100,ENT (Otolaryngology),General Referral,42
+Apr-17,UL Hospitals Group,9100,Gastroenterology,General Referral,37
+Apr-17,UL Hospitals Group,9100,General Medicine,General Referral,13
+Apr-17,UL Hospitals Group,9100,General Surgery,General Referral,44
+Apr-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,13
+Apr-17,UL Hospitals Group,9100,Gynaecology,General Referral,57
+Apr-17,UL Hospitals Group,9100,Haematology,General Referral,5
+Apr-17,UL Hospitals Group,9100,Maxillo-Facial,General Referral,8
+Apr-17,UL Hospitals Group,9100,Nephrology,General Referral,8
+Apr-17,UL Hospitals Group,9100,Neurology,General Referral,5
+Apr-17,UL Hospitals Group,9100,Ophthalmology,General Referral,27
+Apr-17,UL Hospitals Group,9100,Orthopaedics,General Referral,52
+Apr-17,UL Hospitals Group,9100,Paediatrics,General Referral,17
+Apr-17,UL Hospitals Group,9100,Pain Management,General Referral,6
+Apr-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,25
+Apr-17,UL Hospitals Group,9100,Rheumatology,General Referral,17
+Apr-17,UL Hospitals Group,9100,Urology,General Referral,21
+Apr-17,UL Hospitals Group,9100,Vascular Surgery,General Referral,16
+Apr-17,University Hospital Galway,800,Anaesthetics,General Referral,1
+Apr-17,University Hospital Galway,800,Cardiology,General Referral,51
+Apr-17,University Hospital Galway,800,Clinical Immunology,General Referral,2
+Apr-17,University Hospital Galway,800,Dermatology,General Referral,72
+Apr-17,University Hospital Galway,800,Diabetes,General Referral,9
+Apr-17,University Hospital Galway,800,Endocrinology,General Referral,14
+Apr-17,University Hospital Galway,800,Fertility,General Referral,5
+Apr-17,University Hospital Galway,800,Gastro-Enterology,General Referral,50
+Apr-17,University Hospital Galway,800,General Medicine,General Referral,4
+Apr-17,University Hospital Galway,800,General Surgery,General Referral,46
+Apr-17,University Hospital Galway,800,Geriatric Medicine,General Referral,5
+Apr-17,University Hospital Galway,800,Gynaecology,General Referral,46
+Apr-17,University Hospital Galway,800,Haematology,General Referral,14
+Apr-17,University Hospital Galway,800,Haemochromatosis,General Referral,2
+Apr-17,University Hospital Galway,800,Hepatitis B/C,General Referral,1
+Apr-17,University Hospital Galway,800,Infectious Diseases,General Referral,3
+Apr-17,University Hospital Galway,800,Nephrology,General Referral,7
+Apr-17,University Hospital Galway,800,Neurology,General Referral,37
+Apr-17,University Hospital Galway,800,Obstetrics,General Referral,12
+Apr-17,University Hospital Galway,800,Oncology,General Referral,1
+Apr-17,University Hospital Galway,800,Ophthalmology,General Referral,45
+Apr-17,University Hospital Galway,800,Oral Surgery,General Referral,8
+Apr-17,University Hospital Galway,800,Orthopaedics,General Referral,96
+Apr-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,112
+Apr-17,University Hospital Galway,800,Paediatrics,General Referral,44
+Apr-17,University Hospital Galway,800,Pain Clinic,General Referral,4
+Apr-17,University Hospital Galway,800,Plastic Surgery,General Referral,94
+Apr-17,University Hospital Galway,800,Radiology,General Referral,21
+Apr-17,University Hospital Galway,800,Respiratory Medicine,General Referral,22
+Apr-17,University Hospital Galway,800,Rheumatology,General Referral,41
+Apr-17,University Hospital Galway,800,Sleep,General Referral,7
+Apr-17,University Hospital Galway,800,UCHG Breast Clinic,Breast Clinic Referral,74
+Apr-17,University Hospital Galway,800,UCHG Lung Clinic,Lung Cancer Referral,7
+Apr-17,University Hospital Galway,800,UCHG Urology,Prostate Cancer Referral,7
+Apr-17,University Hospital Galway,800,Urology,General Referral,45
+Apr-17,University Hospital Galway,800,Vascular Surgery,General Referral,36
+Apr-17,University Hospital Limerick,300,Limerick Lung Clinic,Lung Cancer Referral,3
+Apr-17,University Hospital Limerick,300,Limerick Prostate Clinic,Prostate Cancer Referral,3
+Apr-17,University Hospital Limerick,300,Limerick Regional Breast Clinic,Breast Clinic Referral,54
+Apr-17,University Hospital Limerick,300,Pigmented Lesion Limerick,Pigmented Lesion Referral,15
+Apr-17,University Hospital Waterford,600,Dermatology,General Referral,31
+Apr-17,University Hospital Waterford,600,ENT,General Referral,32
+Apr-17,University Hospital Waterford,600,General Surgery,General Referral,13
+Apr-17,University Hospital Waterford,600,Ophthalmology,General Referral,12
+Apr-17,University Hospital Waterford,600,Orthopaedics,General Referral,41
+Apr-17,University Hospital Waterford,600,Pigmented Lesion,Pigmented Lesion Referral,17
+Apr-17,University Hospital Waterford,600,Rheumatology,General Referral,11
+Apr-17,University Hospital Waterford,600,Urology,General Referral,9
+Apr-17,University Hospital Waterford,600,Vascular,General Referral,6
+Apr-17,University Hospital Waterford,600,Waterford Lung Clinic,Lung Cancer Referral,4
+Apr-17,University Hospital Waterford,600,Waterford Prostate Clinic,Prostate Cancer Referral,2
+Apr-17,University Hospital Waterford,600,Waterford Regional Breast Clinic,Breast Clinic Referral,68
+Apr-17,Wexford General Hospital,605,General Medicine,General Referral,22
+Apr-17,Wexford General Hospital,605,General Surgery,General Referral,28
+May-17,AMNCH,1049,Cardiology,General Referral,15
+May-17,AMNCH,1049,Clinical Neurophysiology,General Referral,3
+May-17,AMNCH,1049,Dermatology,General Referral,53
+May-17,AMNCH,1049,Endocrinology/Chemical Pathology,General Referral,10
+May-17,AMNCH,1049,ENT,General Referral,53
+May-17,AMNCH,1049,Gastroenterology,General Referral,32
+May-17,AMNCH,1049,Geriatric Medicine,General Referral,6
+May-17,AMNCH,1049,Gynaecology,General Referral,25
+May-17,AMNCH,1049,Haematology,General Referral,7
+May-17,AMNCH,1049,Nephrology,General Referral,6
+May-17,AMNCH,1049,Neurology,General Referral,14
+May-17,AMNCH,1049,Oncology,General Referral,1
+May-17,AMNCH,1049,Ophthalmology,General Referral,3
+May-17,AMNCH,1049,Orthopaedics,General Referral,64
+May-17,AMNCH,1049,Paediatric Cardiology,General Referral,5
+May-17,AMNCH,1049,Paediatric Dermatology,General Referral,8
+May-17,AMNCH,1049,Paediatric Developmental,General Referral,8
+May-17,AMNCH,1049,Paediatric Endocrinology,General Referral,1
+May-17,AMNCH,1049,Paediatric ENT,General Referral,29
+May-17,AMNCH,1049,Paediatric Gastroenterology,General Referral,8
+May-17,AMNCH,1049,Paediatric General Surgery,General Referral,16
+May-17,AMNCH,1049,Paediatric Medicine,General Referral,18
+May-17,AMNCH,1049,Paediatric Neurology,General Referral,4
+May-17,AMNCH,1049,Paediatric Respiratory,General Referral,6
+May-17,AMNCH,1049,Pain Medicine,General Referral,4
+May-17,AMNCH,1049,Pigmented Lesion,Pigmented Lesion Referral,12
+May-17,AMNCH,1049,Respiratory,General Referral,16
+May-17,AMNCH,1049,Rheumatology,General Referral,18
+May-17,AMNCH,1049,Surgery,General Referral,42
+May-17,AMNCH,1049,Urology,General Referral,54
+May-17,AMNCH,1049,Vascular,General Referral,19
+May-17,Bantry General Hospital,704,Gastroenterology,General Referral,25
+May-17,Bantry General Hospital,704,General Medicine,General Referral,28
+May-17,Bantry General Hospital,704,General Surgery,General Referral,52
+May-17,Bantry General Hospital,704,Medicine for the Elderly,General Referral,1
+May-17,Bantry General Hospital,704,Outreach Dermatology,General Referral,14
+May-17,Bantry General Hospital,704,Outreach Orthopaedics,General Referral,15
+May-17,Bantry General Hospital,704,Outreach Surgical,General Referral,10
+May-17,Beacon Hospital,9061,Beacon Hospital - Neurology,Neurology Referral,1
+May-17,Beaumont Hospital,923,Anaesthetics,General Referral,1
+May-17,Beaumont Hospital,923,Beaumont Breast Clinic,Breast Clinic Referral,268
+May-17,Beaumont Hospital,923,Beaumont Lung Clinic,Lung Cancer Referral,12
+May-17,Beaumont Hospital,923,Beaumont Prostate Clinic,Prostate Cancer Referral,14
+May-17,Beaumont Hospital,923,Cardiology,General Referral,34
+May-17,Beaumont Hospital,923,Clinical Immunology,General Referral,8
+May-17,Beaumont Hospital,923,Dermatology,General Referral,118
+May-17,Beaumont Hospital,923,Endocrinology,General Referral,24
+May-17,Beaumont Hospital,923,ENT,General Referral,89
+May-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,60
+May-17,Beaumont Hospital,923,General Surgery,General Referral,99
+May-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,16
+May-17,Beaumont Hospital,923,Gynaecology,General Referral,22
+May-17,Beaumont Hospital,923,Haematology,General Referral,9
+May-17,Beaumont Hospital,923,Infectious Diseases,General Referral,1
+May-17,Beaumont Hospital,923,Maxillo-Facial,General Referral,3
+May-17,Beaumont Hospital,923,Nephrology,General Referral,8
+May-17,Beaumont Hospital,923,Neurology,General Referral,55
+May-17,Beaumont Hospital,923,Neurosurgery,General Referral,33
+May-17,Beaumont Hospital,923,Oncology,General Referral,2
+May-17,Beaumont Hospital,923,Ophthalmology,General Referral,14
+May-17,Beaumont Hospital,923,Orthopaedics,General Referral,75
+May-17,Beaumont Hospital,923,Pain Relief,General Referral,15
+May-17,Beaumont Hospital,923,Plastic Surgery,General Referral,61
+May-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,41
+May-17,Beaumont Hospital,923,Rheumatology,General Referral,23
+May-17,Beaumont Hospital,923,Urology,General Referral,68
+May-17,Beaumont Hospital,923,Vascular Surgery,General Referral,44
+May-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,63
+May-17,Cappagh National Orthopaedic Hospital,955,Rheumatology,General Referral,5
+May-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,13
+May-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,33
+May-17,Cavan Monaghan Hospital,402,ENT,General Referral,39
+May-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,31
+May-17,Cavan Monaghan Hospital,402,Haematology,General Referral,3
+May-17,Cavan Monaghan Hospital,402,Medical,General Referral,74
+May-17,Cavan Monaghan Hospital,402,Neurology,General Referral,3
+May-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,32
+May-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,31
+May-17,Cavan Monaghan Hospital,402,Surgical,General Referral,133
+May-17,Connolly Hospital,108,Cardiology,General Referral,17
+May-17,Connolly Hospital,108,Dermatology,General Referral,12
+May-17,Connolly Hospital,108,Endocrinology,General Referral,9
+May-17,Connolly Hospital,108,ENT,General Referral,22
+May-17,Connolly Hospital,108,Gastroenterology,General Referral,42
+May-17,Connolly Hospital,108,General Surgery,General Referral,41
+May-17,Connolly Hospital,108,Gynaecology,General Referral,7
+May-17,Connolly Hospital,108,Haematology,General Referral,6
+May-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,9
+May-17,Connolly Hospital,108,Nephrology,General Referral,4
+May-17,Connolly Hospital,108,Ophthalmology,General Referral,4
+May-17,Connolly Hospital,108,Orthopaedic,General Referral,45
+May-17,Connolly Hospital,108,Plastic Surgery,General Referral,17
+May-17,Connolly Hospital,108,Respiratory,General Referral,26
+May-17,Connolly Hospital,108,Rheumatology,General Referral,21
+May-17,Connolly Hospital,108,Urology,General Referral,21
+May-17,Coombe Women & Infants University Hospital,930,Gynaecology,General Referral,47
+May-17,Cork University Hospital,724,Cardiology,General Referral,51
+May-17,Cork University Hospital,724,Cardiothoracics,General Referral,2
+May-17,Cork University Hospital,724,CUH Referral Centre,Breast Clinic Referral,355
+May-17,Cork University Hospital,724,CUH Referral Centre,Lung Cancer Referral,24
+May-17,Cork University Hospital,724,CUH Referral Centre,Prostate Cancer Referral,21
+May-17,Cork University Hospital,724,Diabetes,General Referral,1
+May-17,Cork University Hospital,724,Endocrinology,General Referral,20
+May-17,Cork University Hospital,724,Gastroenterology,General Referral,38
+May-17,Cork University Hospital,724,General Surgery,General Referral,68
+May-17,Cork University Hospital,724,Gynaecology,General Referral,79
+May-17,Cork University Hospital,724,Maxillo Facial,General Referral,5
+May-17,Cork University Hospital,724,Medicine for the Elderly,General Referral,22
+May-17,Cork University Hospital,724,Nephrology,General Referral,7
+May-17,Cork University Hospital,724,Neurology,General Referral,45
+May-17,Cork University Hospital,724,Neurosurgery,General Referral,50
+May-17,Cork University Hospital,724,Ophthalmology,General Referral,96
+May-17,Cork University Hospital,724,Paediatric Endocrinology,General Referral,5
+May-17,Cork University Hospital,724,Paediatric Medicine,General Referral,70
+May-17,Cork University Hospital,724,Paediatric Neurology,General Referral,6
+May-17,Cork University Hospital,724,Paediatric Respiratory,General Referral,4
+May-17,Cork University Hospital,724,Plastic Surgery,General Referral,45
+May-17,Cork University Hospital,724,Respiratory,General Referral,34
+May-17,Cork University Hospital,724,Rheumatology,General Referral,26
+May-17,Cork University Hospital,724,Urology,General Referral,46
+May-17,Cork University Hospital,724,Vascular,General Referral,34
+May-17,County Clinic Longford,9103,Gynaecology,General Referral,1
+May-17,County Clinic Longford,9103,Paediatric,General Referral,3
+May-17,County Clinic Longford,9103,Surgical,General Referral,16
+May-17,Kerry General Hospital,726,Audiology,General Referral,4
+May-17,Kerry General Hospital,726,Cardiology,General Referral,37
+May-17,Kerry General Hospital,726,Dermatology,General Referral,46
+May-17,Kerry General Hospital,726,Diabetes,General Referral,6
+May-17,Kerry General Hospital,726,Ear Nose and Throat,General Referral,62
+May-17,Kerry General Hospital,726,Endocrinology,General Referral,11
+May-17,Kerry General Hospital,726,General Medicine,General Referral,42
+May-17,Kerry General Hospital,726,General Surgery,General Referral,285
+May-17,Kerry General Hospital,726,Gynaecology,General Referral,82
+May-17,Kerry General Hospital,726,Medicine for the Elderly,General Referral,15
+May-17,Kerry General Hospital,726,Neurology,General Referral,13
+May-17,Kerry General Hospital,726,Orthopaedics,General Referral,120
+May-17,Kerry General Hospital,726,Paediatrics,General Referral,44
+May-17,Kerry General Hospital,726,Plastic Surgery,General Referral,2
+May-17,Kerry General Hospital,726,Renal,General Referral,3
+May-17,Kerry General Hospital,726,Rheumatology,General Referral,18
+May-17,Letterkenny University Hospital,500,Antenatal,General Referral,26
+May-17,Letterkenny University Hospital,500,Cardiology,General Referral,25
+May-17,Letterkenny University Hospital,500,Colorectal,General Referral,14
+May-17,Letterkenny University Hospital,500,Colposcopy,General Referral,3
+May-17,Letterkenny University Hospital,500,Day Services,General Referral,36
+May-17,Letterkenny University Hospital,500,Dermatology,General Referral,32
+May-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,46
+May-17,Letterkenny University Hospital,500,Endocrinology,General Referral,3
+May-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,24
+May-17,Letterkenny University Hospital,500,Gynaecology,General Referral,30
+May-17,Letterkenny University Hospital,500,Haematology,General Referral,3
+May-17,Letterkenny University Hospital,500,Letterkenny Breast Unit,Breast Clinic Referral,74
+May-17,Letterkenny University Hospital,500,Medical,General Referral,28
+May-17,Letterkenny University Hospital,500,Nephrology,General Referral,4
+May-17,Letterkenny University Hospital,500,Neurology,General Referral,3
+May-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,15
+May-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,49
+May-17,Letterkenny University Hospital,500,Paediatrics,General Referral,26
+May-17,Letterkenny University Hospital,500,Respiratory,General Referral,11
+May-17,Letterkenny University Hospital,500,Rheumatology,General Referral,8
+May-17,Letterkenny University Hospital,500,Surgical,General Referral,42
+May-17,Letterkenny University Hospital,500,Urodynamics,General Referral,1
+May-17,Letterkenny University Hospital,500,Urology,General Referral,8
+May-17,Letterkenny University Hospital,500,X-Ray,General Referral,1
+May-17,Louth County Hospital,400,Endocrinology,General Referral,14
+May-17,Louth County Hospital,400,General Medicine,General Referral,17
+May-17,Louth County Hospital,400,Gynaecology,General Referral,20
+May-17,Louth County Hospital,400,Orthopaedics,General Referral,53
+May-17,Louth County Hospital,400,Paediatrics,General Referral,3
+May-17,Louth County Hospital,400,Surgery,General Referral,59
+May-17,Louth County Hospital,400,Urology,General Referral,8
+May-17,Mallow General Hospital,703,Ear Nose and Throat,General Referral,29
+May-17,Mallow General Hospital,703,General Medicine,General Referral,59
+May-17,Mallow General Hospital,703,General Surgery,General Referral,81
+May-17,Mater Private Dublin Hospital,9060,Cardiology - Consultant clinics,General Referral,5
+May-17,Mater Private Dublin Hospital,9060,Cardiology – Arrhythmia service,General Referral,3
+May-17,Mater Private Dublin Hospital,9060,Mater Private Breast Clinic,Breast Clinic Referral,26
+May-17,Mater Private Dublin Hospital,9060,Mater Private Prostate Clinic,Prostate Cancer Referral,2
+May-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,7
+May-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,12
+May-17,Mater Public Hospital,908,Dermatology,General Referral,82
+May-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,15
+May-17,Mater Public Hospital,908,ENT Surgery,General Referral,55
+May-17,Mater Public Hospital,908,Gastroenterology,General Referral,63
+May-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,36
+May-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,45
+May-17,Mater Public Hospital,908,General Surgery,General Referral,33
+May-17,Mater Public Hospital,908,Geriatrics,General Referral,2
+May-17,Mater Public Hospital,908,Gynaecology,General Referral,11
+May-17,Mater Public Hospital,908,Haematology,General Referral,18
+May-17,Mater Public Hospital,908,Hepatology,General Referral,9
+May-17,Mater Public Hospital,908,Infectious Diseases,General Referral,8
+May-17,Mater Public Hospital,908,Mater Lung Clinic,Lung Cancer Referral,14
+May-17,Mater Public Hospital,908,Mater Prostate Clinic,Prostate Cancer Referral,20
+May-17,Mater Public Hospital,908,Mater Public Breast Unit,Breast Clinic Referral,350
+May-17,Mater Public Hospital,908,Metabolic Disease,General Referral,1
+May-17,Mater Public Hospital,908,Nephrology,General Referral,6
+May-17,Mater Public Hospital,908,Neurology,General Referral,35
+May-17,Mater Public Hospital,908,Oncology,General Referral,2
+May-17,Mater Public Hospital,908,Ophthalmology,General Referral,59
+May-17,Mater Public Hospital,908,Orthopaedic,General Referral,53
+May-17,Mater Public Hospital,908,Pain Medicine,General Referral,5
+May-17,Mater Public Hospital,908,Plastic Surgery,General Referral,29
+May-17,Mater Public Hospital,908,Psychiatry,General Referral,3
+May-17,Mater Public Hospital,908,Respiratory Med,General Referral,19
+May-17,Mater Public Hospital,908,Rheumatology,General Referral,14
+May-17,Mater Public Hospital,908,Urology,General Referral,38
+May-17,Mayo University Hospital,802,Dermatology,General Referral,13
+May-17,Mayo University Hospital,802,Diabetic,General Referral,2
+May-17,Mayo University Hospital,802,ENT,General Referral,17
+May-17,Mayo University Hospital,802,Gynaecology,General Referral,41
+May-17,Mayo University Hospital,802,Medical,General Referral,62
+May-17,Mayo University Hospital,802,Nephrology,General Referral,1
+May-17,Mayo University Hospital,802,Obstetrics,General Referral,23
+May-17,Mayo University Hospital,802,Orthopaedic,General Referral,97
+May-17,Mayo University Hospital,802,Paediatrics,General Referral,35
+May-17,Mayo University Hospital,802,Surgical,General Referral,86
+May-17,Mayo University Hospital,802,Urology,General Referral,4
+May-17,Mercy University Hospital,913,Cardiology,General Referral,26
+May-17,Mercy University Hospital,913,Gastroenterology,General Referral,62
+May-17,Mercy University Hospital,913,General Surgery,General Referral,53
+May-17,Mercy University Hospital,913,Haematology,General Referral,7
+May-17,Mercy University Hospital,913,Heptobiliary and Pancreatic,General Referral,3
+May-17,Mercy University Hospital,913,Infectious Diseases,General Referral,2
+May-17,Mercy University Hospital,913,Medicine for the Elderly,General Referral,5
+May-17,Mercy University Hospital,913,Neurology,General Referral,14
+May-17,Mercy University Hospital,913,Paediatrics,General Referral,22
+May-17,Mercy University Hospital,913,Pain Medicine,General Referral,13
+May-17,Mercy University Hospital,913,Radiology,General Referral,436
+May-17,Mercy University Hospital,913,Respiratory,General Referral,32
+May-17,Mercy University Hospital,913,Urology,General Referral,55
+May-17,Mercy University Hospital,913,Vascular,General Referral,34
+May-17,Merlin Park University Hospital,801,Radiology,General Referral,22
+May-17,Midland Regional Hospital Portlaoise,201,Cardiology,General Referral,18
+May-17,Midland Regional Hospital Portlaoise,201,Endocrinology,General Referral,4
+May-17,Midland Regional Hospital Portlaoise,201,Gynaecology,General Referral,18
+May-17,Midland Regional Hospital Portlaoise,201,Medical,General Referral,3
+May-17,Midland Regional Hospital Portlaoise,201,Obstetric,General Referral,12
+May-17,Midland Regional Hospital Portlaoise,201,Ophthalmology,General Referral,3
+May-17,Midland Regional Hospital Portlaoise,201,Paediatrics,General Referral,13
+May-17,Midland Regional Hospital Portlaoise,201,Surgical,General Referral,33
+May-17,Midland Regional Hospital Portlaoise,201,Urology,General Referral,7
+May-17,Mullingar Midland Regional Hospital,202,Cardiology,General Referral,31
+May-17,Mullingar Midland Regional Hospital,202,Dermatology,General Referral,36
+May-17,Mullingar Midland Regional Hospital,202,Diabetes Mellitus,General Referral,3
+May-17,Mullingar Midland Regional Hospital,202,Endocrinology,General Referral,5
+May-17,Mullingar Midland Regional Hospital,202,General Medicine,General Referral,27
+May-17,Mullingar Midland Regional Hospital,202,General Surgery,General Referral,135
+May-17,Mullingar Midland Regional Hospital,202,Geriatric Medicine,General Referral,5
+May-17,Mullingar Midland Regional Hospital,202,Gynaecology,General Referral,66
+May-17,Mullingar Midland Regional Hospital,202,Haematology,General Referral,5
+May-17,Mullingar Midland Regional Hospital,202,Obstetrics,General Referral,32
+May-17,Mullingar Midland Regional Hospital,202,Ophthalmology,General Referral,14
+May-17,Mullingar Midland Regional Hospital,202,Orthopaedic,General Referral,3
+May-17,Mullingar Midland Regional Hospital,202,Paediatrics,General Referral,29
+May-17,Mullingar Midland Regional Hospital,202,Pigmented Lesion,Pigmented Lesion Referral,1
+May-17,Mullingar Midland Regional Hospital,202,Respiratory,General Referral,19
+May-17,Naas General Hospital,102,Anaesthetics,General Referral,1
+May-17,Naas General Hospital,102,Cardiology,General Referral,15
+May-17,Naas General Hospital,102,Dermatology,General Referral,29
+May-17,Naas General Hospital,102,Endocrinology/Diabetology,General Referral,6
+May-17,Naas General Hospital,102,Gastroenterology,General Referral,24
+May-17,Naas General Hospital,102,General Medical,General Referral,4
+May-17,Naas General Hospital,102,General Surgical,General Referral,58
+May-17,Naas General Hospital,102,Geriatrics,General Referral,4
+May-17,Naas General Hospital,102,Haematology,General Referral,3
+May-17,Naas General Hospital,102,Orthopaedics,General Referral,34
+May-17,Naas General Hospital,102,Respiratory,General Referral,8
+May-17,Naas General Hospital,102,Rheumatology,General Referral,3
+May-17,National Maternity Hospital Holles Street,931,Gynaecology,General Referral,45
+May-17,National Maternity Hospital Holles Street,931,Obstetrics,General Referral,23
+May-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,38
+May-17,Our Lady of Lourdes Hospital,922,Dermatology,General Referral,106
+May-17,Our Lady of Lourdes Hospital,922,Endocrinology,General Referral,13
+May-17,Our Lady of Lourdes Hospital,922,ENT,General Referral,75
+May-17,Our Lady of Lourdes Hospital,922,Gastroenterology,General Referral,22
+May-17,Our Lady of Lourdes Hospital,922,General Medicine,General Referral,15
+May-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,40
+May-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,48
+May-17,Our Lady of Lourdes Hospital,922,Haematology,General Referral,16
+May-17,Our Lady of Lourdes Hospital,922,Minor Ops,General Referral,14
+May-17,Our Lady of Lourdes Hospital,922,Nephrology,General Referral,8
+May-17,Our Lady of Lourdes Hospital,922,Ophthalmology,General Referral,25
+May-17,Our Lady of Lourdes Hospital,922,Paediatric Orthopaedics,General Referral,12
+May-17,Our Lady of Lourdes Hospital,922,Paediatric Surgery,General Referral,10
+May-17,Our Lady of Lourdes Hospital,922,Paediatrics,General Referral,48
+May-17,Our Lady of Lourdes Hospital,922,Pigmented Lesion,Pigmented Lesion Referral,24
+May-17,Our Lady of Lourdes Hospital,922,Respiratory Medicine,General Referral,16
+May-17,Our Lady of Lourdes Hospital,922,Tropical Medicine,General Referral,1
+May-17,Our Lady of Lourdes Hospital,922,Urology,General Referral,18
+May-17,Our Lady's Children's Hospital Crumlin,941,Allergy,General Referral,12
+May-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,35
+May-17,Our Lady's Hospital Navan,403,Cardiology,General Referral,14
+May-17,Our Lady's Hospital Navan,403,Diabetic,General Referral,2
+May-17,Our Lady's Hospital Navan,403,Endocrinology,General Referral,6
+May-17,Our Lady's Hospital Navan,403,Gastroenterology,General Referral,21
+May-17,Our Lady's Hospital Navan,403,General Surgery,General Referral,94
+May-17,Our Lady's Hospital Navan,403,Geriatric / Memory Loss,General Referral,5
+May-17,Our Lady's Hospital Navan,403,Gynaecology,General Referral,7
+May-17,Our Lady's Hospital Navan,403,Orthopaedic,General Referral,104
+May-17,Our Lady's Hospital Navan,403,Paediatrics,General Referral,1
+May-17,Our Lady's Hospital Navan,403,Respiratory,General Referral,4
+May-17,Our Lady's Hospital Navan,403,Rheumatology,General Referral,48
+May-17,Portiuncula University Hospital,919,Cardiac,General Referral,22
+May-17,Portiuncula University Hospital,919,Dermatology,General Referral,13
+May-17,Portiuncula University Hospital,919,Endocrinology,General Referral,13
+May-17,Portiuncula University Hospital,919,Gynaecology,General Referral,57
+May-17,Portiuncula University Hospital,919,Medical,General Referral,33
+May-17,Portiuncula University Hospital,919,Nerve Conductive,General Referral,3
+May-17,Portiuncula University Hospital,919,Obstetrics,General Referral,33
+May-17,Portiuncula University Hospital,919,Oncology,General Referral,1
+May-17,Portiuncula University Hospital,919,Orthopaedic,General Referral,2
+May-17,Portiuncula University Hospital,919,Paediatrics,General Referral,25
+May-17,Portiuncula University Hospital,919,Pain,General Referral,2
+May-17,Portiuncula University Hospital,919,Surgical,General Referral,95
+May-17,Portiuncula University Hospital,919,Urology,General Referral,15
+May-17,Roscommon University Hospital,803,Endocrine/Diabetes,General Referral,1
+May-17,Roscommon University Hospital,803,ENT,General Referral,8
+May-17,Roscommon University Hospital,803,Medical,General Referral,19
+May-17,Roscommon University Hospital,803,Orthopaedic,General Referral,13
+May-17,Roscommon University Hospital,803,Pigmented Lesion,Pigmented Lesion Referral,13
+May-17,Roscommon University Hospital,803,Plastics,General Referral,42
+May-17,Roscommon University Hospital,803,Surgical,General Referral,52
+May-17,Roscommon University Hospital,803,Urology,General Referral,4
+May-17,Roscommon University Hospital,803,Vascular,General Referral,11
+May-17,Rotunda Hospital,932,Gynaecology,General Referral,69
+May-17,Rotunda Hospital,932,Obstetrics,General Referral,20
+May-17,Rotunda Hospital,932,Ultrasound,General Referral,19
+May-17,Royal Victoria Eye and Ear Hospital,950,ENT,General Referral,39
+May-17,Royal Victoria Eye and Ear Hospital,950,Ophthalmology,Ophthalmology Referral,31
+May-17,Sligo University Hospital,501,Dermatology,General Referral,32
+May-17,Sligo University Hospital,501,Diabetology,General Referral,1
+May-17,Sligo University Hospital,501,ENT,General Referral,53
+May-17,Sligo University Hospital,501,General Surgery,General Referral,47
+May-17,Sligo University Hospital,501,Immunology,General Referral,1
+May-17,Sligo University Hospital,501,Medical,General Referral,62
+May-17,Sligo University Hospital,501,Neurology,General Referral,2
+May-17,Sligo University Hospital,501,Ophthalmology,General Referral,21
+May-17,Sligo University Hospital,501,Orthopaedics,General Referral,28
+May-17,Sligo University Hospital,501,Paediatrics,General Referral,15
+May-17,Sligo University Hospital,501,Urology,General Referral,16
+May-17,South Infirmary Victoria Hospital,915,Dermatology,General Referral,186
+May-17,South Infirmary Victoria Hospital,915,Ear Nose and Throat,General Referral,199
+May-17,South Infirmary Victoria Hospital,915,Endocrinology,General Referral,8
+May-17,South Infirmary Victoria Hospital,915,General Surgery,General Referral,153
+May-17,South Infirmary Victoria Hospital,915,Maxillo Facial,General Referral,8
+May-17,South Infirmary Victoria Hospital,915,Orthopaedics,General Referral,200
+May-17,South Infirmary Victoria Hospital,915,Pain Medicine,General Referral,31
+May-17,South Infirmary Victoria Hospital,915,Pigmented Lesion,Pigmented Lesion Referral,141
+May-17,South Infirmary Victoria Hospital,915,Plastic Surgery,General Referral,51
+May-17,South Infirmary Victoria Hospital,915,Rheumatology,General Referral,21
+May-17,South Tipperary General Hospital,607,Cardiology,General Referral,7
+May-17,South Tipperary General Hospital,607,Diabetes Mellitus,General Referral,2
+May-17,South Tipperary General Hospital,607,General Medicine,General Referral,24
+May-17,South Tipperary General Hospital,607,General Surgery,General Referral,57
+May-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,2
+May-17,South Tipperary General Hospital,607,Gynaecology,General Referral,28
+May-17,South Tipperary General Hospital,607,Obstetrics,General Referral,10
+May-17,South Tipperary General Hospital,607,Paediatrics,General Referral,11
+May-17,St. Columcille's Hospital,101,Cardiology,General Referral,7
+May-17,St. Columcille's Hospital,101,Endocrinology,General Referral,6
+May-17,St. Columcille's Hospital,101,Gastroenterology,General Referral,9
+May-17,St. Columcille's Hospital,101,General Surgery,General Referral,29
+May-17,St. Columcille's Hospital,101,Gerontology,General Referral,9
+May-17,St. Columcille's Hospital,101,Gynaecology,General Referral,3
+May-17,St. Columcille's Hospital,101,Orthopaedics (Fracture Clinic),General Referral,2
+May-17,St. Columcille's Hospital,101,Pain Management,General Referral,2
+May-17,St. Columcille's Hospital,101,Urology,General Referral,6
+May-17,St. Columcille's Hospital,101,Vascular,General Referral,5
+May-17,St. James's Hospital,904,Cardiology,General Referral,18
+May-17,St. James's Hospital,904,Dermatology,General Referral,68
+May-17,St. James's Hospital,904,Diabetes,General Referral,2
+May-17,St. James's Hospital,904,Endocrinology,General Referral,8
+May-17,St. James's Hospital,904,Gastroenterology,General Referral,44
+May-17,St. James's Hospital,904,Hepatology,General Referral,15
+May-17,St. James's Hospital,904,Immunology,General Referral,14
+May-17,St. James's Hospital,904,Nephrology,General Referral,3
+May-17,St. James's Hospital,904,Pigmented Lesion,Pigmented Lesion Referral,28
+May-17,St. James's Hospital,904,Respiratory,General Referral,18
+May-17,St. James's Hospital,904,Rheumatology,General Referral,13
+May-17,St. James's Hospital,904,St. James's Breast Clinic,Breast Clinic Referral,277
+May-17,St. James's Hospital,904,St. James's Lung Clinic,Lung Cancer Referral,20
+May-17,St. James's Hospital,904,St. James's Neurology Dept.,Neurology Referral,15
+May-17,St. James's Hospital,904,St. James's Urology,Prostate Cancer Referral,19
+May-17,St. John of Gods,18,Inpatient Admission,General Referral,1
+May-17,St. John of Gods,18,Outpatient Appointment,General Referral,1
+May-17,"St. Luke's Hospital, Kilkenny",601,Cardiology,General Referral,7
+May-17,"St. Luke's Hospital, Kilkenny",601,Endocrinology/Diabetes Mellitus,General Referral,4
+May-17,"St. Luke's Hospital, Kilkenny",601,Gastroenterology,General Referral,6
+May-17,"St. Luke's Hospital, Kilkenny",601,General Medicine,General Referral,8
+May-17,"St. Luke's Hospital, Kilkenny",601,General Surgery,General Referral,56
+May-17,"St. Luke's Hospital, Kilkenny",601,Gynaecology,General Referral,17
+May-17,"St. Luke's Hospital, Kilkenny",601,Hepatology,General Referral,3
+May-17,"St. Luke's Hospital, Kilkenny",601,Obstetrics,General Referral,7
+May-17,"St. Luke's Hospital, Kilkenny",601,Paediatrics,General Referral,13
+May-17,"St. Luke's Hospital, Kilkenny",601,Respiratory,General Referral,2
+May-17,St. Michael's Hospital,912,Cardiology,General Referral,12
+May-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,4
+May-17,St. Michael's Hospital,912,Dermatology,General Referral,25
+May-17,St. Michael's Hospital,912,Diabetes,General Referral,1
+May-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,2
+May-17,St. Michael's Hospital,912,ENT,General Referral,19
+May-17,St. Michael's Hospital,912,Gastroenterology,General Referral,28
+May-17,St. Michael's Hospital,912,General Surgery,General Referral,26
+May-17,St. Michael's Hospital,912,Gynaecology,General Referral,8
+May-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,6
+May-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,4
+May-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,2
+May-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,4
+May-17,St. Michael's Hospital,912,Orthopaedics,General Referral,3
+May-17,St. Michael's Hospital,912,Pelvic Floor Clinic,General Referral,3
+May-17,St. Michael's Hospital,912,Respiratory,General Referral,9
+May-17,St. Michael's Hospital,912,Stop HF Unit,General Referral,1
+May-17,St. Michael's Hospital,912,Urology,General Referral,3
+May-17,St. Vincent's University Hospital,910,Cardio-thoracic,General Referral,3
+May-17,St. Vincent's University Hospital,910,Cardiology,General Referral,34
+May-17,St. Vincent's University Hospital,910,Dermatology,General Referral,56
+May-17,St. Vincent's University Hospital,910,Diabetes,General Referral,2
+May-17,St. Vincent's University Hospital,910,Endocrinology,General Referral,9
+May-17,St. Vincent's University Hospital,910,ENT,General Referral,29
+May-17,St. Vincent's University Hospital,910,Gastroenterology,General Referral,32
+May-17,St. Vincent's University Hospital,910,General Medicine,General Referral,4
+May-17,St. Vincent's University Hospital,910,General Surgery,General Referral,29
+May-17,St. Vincent's University Hospital,910,Geriatrics,General Referral,20
+May-17,St. Vincent's University Hospital,910,Gynaecology,General Referral,11
+May-17,St. Vincent's University Hospital,910,Haematology,General Referral,19
+May-17,St. Vincent's University Hospital,910,Infectious Diseases,General Referral,2
+May-17,St. Vincent's University Hospital,910,Oncology,General Referral,2
+May-17,St. Vincent's University Hospital,910,Ophthalmology,General Referral,19
+May-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,91
+May-17,St. Vincent's University Hospital,910,Pain Management,General Referral,4
+May-17,St. Vincent's University Hospital,910,Pigmented Lesion,Pigmented Lesion Referral,35
+May-17,St. Vincent's University Hospital,910,Plastics,General Referral,36
+May-17,St. Vincent's University Hospital,910,Psychiatry,General Referral,7
+May-17,St. Vincent's University Hospital,910,Renal,General Referral,12
+May-17,St. Vincent's University Hospital,910,Respiratory,General Referral,29
+May-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,42
+May-17,St. Vincent's University Hospital,910,St. Vincent's Breast Clinic,Breast Clinic Referral,256
+May-17,St. Vincent's University Hospital,910,St. Vincent's Endoscopy,Endoscopy Referral,23
+May-17,St. Vincent's University Hospital,910,St. Vincent's Neurology Dept.,Neurology Referral,13
+May-17,St. Vincent's University Hospital,910,St. Vincent's Prostate Clinic,Prostate Cancer Referral,16
+May-17,St. Vincent's University Hospital,910,St. Vincents Lung Clinic,Lung Cancer Referral,11
+May-17,St. Vincent's University Hospital,910,Urology,General Referral,34
+May-17,St. Vincent's University Hospital,910,Vascular Surgery,General Referral,23
+May-17,Temple Street Children's University Hospital,940,ENT,General Referral,40
+May-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,55
+May-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,22
+May-17,Temple Street Children's University Hospital,940,Plastics,General Referral,8
+May-17,Temple Street Children's University Hospital,940,Surgical,General Referral,19
+May-17,Temple Street Children's University Hospital,940,Urology,General Referral,13
+May-17,Tullamore Midland Regional Hospital,203,Cardiology,General Referral,18
+May-17,Tullamore Midland Regional Hospital,203,ENT,General Referral,138
+May-17,Tullamore Midland Regional Hospital,203,General Medical,General Referral,35
+May-17,Tullamore Midland Regional Hospital,203,General Surgical,General Referral,85
+May-17,Tullamore Midland Regional Hospital,203,Haematology,General Referral,18
+May-17,Tullamore Midland Regional Hospital,203,Nephrology,General Referral,7
+May-17,Tullamore Midland Regional Hospital,203,Obstetrics/Gynae,General Referral,5
+May-17,Tullamore Midland Regional Hospital,203,Oncology,General Referral,1
+May-17,Tullamore Midland Regional Hospital,203,Ophthalmology,General Referral,5
+May-17,Tullamore Midland Regional Hospital,203,Orthopaedics,General Referral,119
+May-17,Tullamore Midland Regional Hospital,203,Paediatrics,General Referral,5
+May-17,Tullamore Midland Regional Hospital,203,Rheumatology,General Referral,23
+May-17,UL Hospitals Group,9100,Cardiology,General Referral,101
+May-17,UL Hospitals Group,9100,Dermatology,General Referral,114
+May-17,UL Hospitals Group,9100,Endocrinology,General Referral,29
+May-17,UL Hospitals Group,9100,ENT (Otolaryngology),General Referral,135
+May-17,UL Hospitals Group,9100,Gastroenterology,General Referral,93
+May-17,UL Hospitals Group,9100,General Medicine,General Referral,9
+May-17,UL Hospitals Group,9100,General Surgery,General Referral,187
+May-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,21
+May-17,UL Hospitals Group,9100,Gynaecology,General Referral,74
+May-17,UL Hospitals Group,9100,Haematology,General Referral,15
+May-17,UL Hospitals Group,9100,Maxillo-Facial,General Referral,24
+May-17,UL Hospitals Group,9100,Nephrology,General Referral,8
+May-17,UL Hospitals Group,9100,Neurology,General Referral,36
+May-17,UL Hospitals Group,9100,Oncology,General Referral,1
+May-17,UL Hospitals Group,9100,Ophthalmology,General Referral,85
+May-17,UL Hospitals Group,9100,Orthopaedics,General Referral,128
+May-17,UL Hospitals Group,9100,Paediatrics,General Referral,75
+May-17,UL Hospitals Group,9100,Pain Management,General Referral,13
+May-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,36
+May-17,UL Hospitals Group,9100,Rheumatology,General Referral,43
+May-17,UL Hospitals Group,9100,Urology,General Referral,88
+May-17,UL Hospitals Group,9100,Vascular Surgery,General Referral,54
+May-17,University Hospital Galway,800,Anaesthetics,General Referral,1
+May-17,University Hospital Galway,800,Cardio-Thoracic Surgery,General Referral,3
+May-17,University Hospital Galway,800,Cardiology,General Referral,54
+May-17,University Hospital Galway,800,Clinical Immunology,General Referral,3
+May-17,University Hospital Galway,800,Dermatology,General Referral,62
+May-17,University Hospital Galway,800,Diabetes,General Referral,7
+May-17,University Hospital Galway,800,Endocrinology,General Referral,29
+May-17,University Hospital Galway,800,Fertility,General Referral,4
+May-17,University Hospital Galway,800,Gastro-Enterology,General Referral,68
+May-17,University Hospital Galway,800,General Medicine,General Referral,5
+May-17,University Hospital Galway,800,General Surgery,General Referral,71
+May-17,University Hospital Galway,800,Geriatric Medicine,General Referral,3
+May-17,University Hospital Galway,800,Gynaecology,General Referral,66
+May-17,University Hospital Galway,800,Haematology,General Referral,25
+May-17,University Hospital Galway,800,Haemochromatosis,General Referral,3
+May-17,University Hospital Galway,800,Hepatitis B/C,General Referral,3
+May-17,University Hospital Galway,800,Infectious Diseases,General Referral,2
+May-17,University Hospital Galway,800,Nephrology,General Referral,9
+May-17,University Hospital Galway,800,Neurology,General Referral,39
+May-17,University Hospital Galway,800,Obstetrics,General Referral,22
+May-17,University Hospital Galway,800,Oncology,General Referral,7
+May-17,University Hospital Galway,800,Ophthalmology,General Referral,49
+May-17,University Hospital Galway,800,Oral Surgery,General Referral,13
+May-17,University Hospital Galway,800,Orthopaedics,General Referral,113
+May-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,98
+May-17,University Hospital Galway,800,Paediatrics,General Referral,53
+May-17,University Hospital Galway,800,Pain Clinic,General Referral,7
+May-17,University Hospital Galway,800,Plastic Surgery,General Referral,124
+May-17,University Hospital Galway,800,Radiology,General Referral,94
+May-17,University Hospital Galway,800,Respiratory Medicine,General Referral,22
+May-17,University Hospital Galway,800,Rheumatology,General Referral,35
+May-17,University Hospital Galway,800,Sleep,General Referral,10
+May-17,University Hospital Galway,800,UCHG Breast Clinic,Breast Clinic Referral,250
+May-17,University Hospital Galway,800,UCHG Lung Clinic,Lung Cancer Referral,7
+May-17,University Hospital Galway,800,UCHG Urology,Prostate Cancer Referral,27
+May-17,University Hospital Galway,800,Urology,General Referral,62
+May-17,University Hospital Galway,800,Vascular Surgery,General Referral,38
+May-17,University Hospital Limerick,300,Limerick Lung Clinic,Lung Cancer Referral,14
+May-17,University Hospital Limerick,300,Limerick Neurology Dept.,Neurology Referral,2
+May-17,University Hospital Limerick,300,Limerick Prostate Clinic,Prostate Cancer Referral,18
+May-17,University Hospital Limerick,300,Limerick Regional Breast Clinic,Breast Clinic Referral,204
+May-17,University Hospital Limerick,300,Pigmented Lesion Limerick,Pigmented Lesion Referral,70
+May-17,University Hospital Waterford,600,Dermatology,General Referral,168
+May-17,University Hospital Waterford,600,ENT,General Referral,151
+May-17,University Hospital Waterford,600,General Surgery,General Referral,67
+May-17,University Hospital Waterford,600,Ophthalmology,General Referral,50
+May-17,University Hospital Waterford,600,Orthopaedics,General Referral,128
+May-17,University Hospital Waterford,600,Pain Medicine,General Referral,6
+May-17,University Hospital Waterford,600,Pigmented Lesion,Pigmented Lesion Referral,71
+May-17,University Hospital Waterford,600,Rheumatology,General Referral,36
+May-17,University Hospital Waterford,600,Urology,General Referral,47
+May-17,University Hospital Waterford,600,Vascular,General Referral,20
+May-17,University Hospital Waterford,600,Waterford Lung Clinic,Lung Cancer Referral,8
+May-17,University Hospital Waterford,600,Waterford Prostate Clinic,Prostate Cancer Referral,10
+May-17,University Hospital Waterford,600,Waterford Regional Breast Clinic,Breast Clinic Referral,217
+May-17,Wexford General Hospital,605,General Medicine,General Referral,61
+May-17,Wexford General Hospital,605,General Surgery,General Referral,119
+Jun-17,AMNCH,1049,Cardiology,General Referral,15
+Jun-17,AMNCH,1049,Clinical Neurophysiology,General Referral,4
+Jun-17,AMNCH,1049,Dermatology,General Referral,49
+Jun-17,AMNCH,1049,Endocrinology/Chemical Pathology,General Referral,9
+Jun-17,AMNCH,1049,ENT,General Referral,37
+Jun-17,AMNCH,1049,Gastroenterology,General Referral,41
+Jun-17,AMNCH,1049,Geriatric Medicine,General Referral,5
+Jun-17,AMNCH,1049,Gynaecology,General Referral,27
+Jun-17,AMNCH,1049,Haematology,General Referral,14
+Jun-17,AMNCH,1049,Nephrology,General Referral,6
+Jun-17,AMNCH,1049,Neurology,General Referral,18
+Jun-17,AMNCH,1049,Oncology,General Referral,1
+Jun-17,AMNCH,1049,Ophthalmology,General Referral,1
+Jun-17,AMNCH,1049,Orthopaedics,General Referral,39
+Jun-17,AMNCH,1049,Paediatric Cardiology,General Referral,3
+Jun-17,AMNCH,1049,Paediatric Dermatology,General Referral,9
+Jun-17,AMNCH,1049,Paediatric Developmental,General Referral,5
+Jun-17,AMNCH,1049,Paediatric Endocrinology,General Referral,2
+Jun-17,AMNCH,1049,Paediatric ENT,General Referral,13
+Jun-17,AMNCH,1049,Paediatric Gastroenterology,General Referral,9
+Jun-17,AMNCH,1049,Paediatric General Surgery,General Referral,18
+Jun-17,AMNCH,1049,Paediatric Medicine,General Referral,15
+Jun-17,AMNCH,1049,Paediatric Neurology,General Referral,3
+Jun-17,AMNCH,1049,Paediatric Respiratory,General Referral,10
+Jun-17,AMNCH,1049,Pain Medicine,General Referral,4
+Jun-17,AMNCH,1049,Pigmented Lesion,Pigmented Lesion Referral,8
+Jun-17,AMNCH,1049,Respiratory,General Referral,13
+Jun-17,AMNCH,1049,Rheumatology,General Referral,17
+Jun-17,AMNCH,1049,Surgery,General Referral,38
+Jun-17,AMNCH,1049,Urology,General Referral,45
+Jun-17,AMNCH,1049,Vascular,General Referral,25
+Jun-17,Bantry General Hospital,704,Gastroenterology,General Referral,14
+Jun-17,Bantry General Hospital,704,General Medicine,General Referral,24
+Jun-17,Bantry General Hospital,704,General Surgery,General Referral,53
+Jun-17,Bantry General Hospital,704,Medicine for the Elderly,General Referral,1
+Jun-17,Bantry General Hospital,704,Outreach Dermatology,General Referral,8
+Jun-17,Bantry General Hospital,704,Outreach Orthopaedics,General Referral,7
+Jun-17,Bantry General Hospital,704,Outreach Surgical,General Referral,4
+Jun-17,Beaumont Hospital,923,Anaesthetics,General Referral,2
+Jun-17,Beaumont Hospital,923,Beaumont Breast Clinic,Breast Clinic Referral,221
+Jun-17,Beaumont Hospital,923,Beaumont Lung Clinic,Lung Cancer Referral,5
+Jun-17,Beaumont Hospital,923,Beaumont Prostate Clinic,Prostate Cancer Referral,9
+Jun-17,Beaumont Hospital,923,Cardiology,General Referral,57
+Jun-17,Beaumont Hospital,923,Clinical Immunology,General Referral,5
+Jun-17,Beaumont Hospital,923,Dermatology,General Referral,107
+Jun-17,Beaumont Hospital,923,Endocrinology,General Referral,28
+Jun-17,Beaumont Hospital,923,ENT,General Referral,79
+Jun-17,Beaumont Hospital,923,Gastro-Enterology,General Referral,71
+Jun-17,Beaumont Hospital,923,General Surgery,General Referral,60
+Jun-17,Beaumont Hospital,923,Geriatric Medicine,General Referral,24
+Jun-17,Beaumont Hospital,923,Gynaecology,General Referral,21
+Jun-17,Beaumont Hospital,923,Haematology,General Referral,13
+Jun-17,Beaumont Hospital,923,Infectious Diseases,General Referral,2
+Jun-17,Beaumont Hospital,923,Nephrology,General Referral,8
+Jun-17,Beaumont Hospital,923,Neurology,General Referral,58
+Jun-17,Beaumont Hospital,923,Neurosurgery,General Referral,34
+Jun-17,Beaumont Hospital,923,Ophthalmology,General Referral,17
+Jun-17,Beaumont Hospital,923,Orthopaedics,General Referral,65
+Jun-17,Beaumont Hospital,923,Pain Relief,General Referral,14
+Jun-17,Beaumont Hospital,923,Plastic Surgery,General Referral,52
+Jun-17,Beaumont Hospital,923,Respiratory Medicine,General Referral,29
+Jun-17,Beaumont Hospital,923,Rheumatology,General Referral,29
+Jun-17,Beaumont Hospital,923,Substance Abuse,General Referral,1
+Jun-17,Beaumont Hospital,923,Urology,General Referral,62
+Jun-17,Beaumont Hospital,923,Vascular Surgery,General Referral,54
+Jun-17,Cappagh National Orthopaedic Hospital,955,Orthopaedics,General Referral,60
+Jun-17,Cappagh National Orthopaedic Hospital,955,Rheumatology,General Referral,6
+Jun-17,Cavan Monaghan Hospital,402,Ante-Natal,General Referral,13
+Jun-17,Cavan Monaghan Hospital,402,Dermatology,General Referral,39
+Jun-17,Cavan Monaghan Hospital,402,ENT,General Referral,42
+Jun-17,Cavan Monaghan Hospital,402,Gynaecology,General Referral,39
+Jun-17,Cavan Monaghan Hospital,402,Haematology,General Referral,8
+Jun-17,Cavan Monaghan Hospital,402,Medical,General Referral,78
+Jun-17,Cavan Monaghan Hospital,402,Neurology,General Referral,6
+Jun-17,Cavan Monaghan Hospital,402,Orthopaedics,General Referral,48
+Jun-17,Cavan Monaghan Hospital,402,Paediatrics,General Referral,23
+Jun-17,Cavan Monaghan Hospital,402,Surgical,General Referral,156
+Jun-17,Connolly Hospital,108,Cardiology,General Referral,19
+Jun-17,Connolly Hospital,108,Dermatology,General Referral,21
+Jun-17,Connolly Hospital,108,Endocrinology,General Referral,9
+Jun-17,Connolly Hospital,108,ENT,General Referral,15
+Jun-17,Connolly Hospital,108,Gastroenterology,General Referral,42
+Jun-17,Connolly Hospital,108,General Surgery,General Referral,53
+Jun-17,Connolly Hospital,108,Gynaecology,General Referral,11
+Jun-17,Connolly Hospital,108,Haematology,General Referral,5
+Jun-17,Connolly Hospital,108,Medicine for the Elderly,General Referral,7
+Jun-17,Connolly Hospital,108,Ophthalmology,General Referral,2
+Jun-17,Connolly Hospital,108,Orthopaedic,General Referral,61
+Jun-17,Connolly Hospital,108,Plastic Surgery,General Referral,17
+Jun-17,Connolly Hospital,108,Respiratory,General Referral,17
+Jun-17,Connolly Hospital,108,Rheumatology,General Referral,13
+Jun-17,Connolly Hospital,108,Urology,General Referral,21
+Jun-17,Coombe Women & Infants University Hospital,930,Gynaecology,General Referral,44
+Jun-17,Cork University Hospital,724,Cardiology,General Referral,46
+Jun-17,Cork University Hospital,724,CUH Referral Centre,Breast Clinic Referral,361
+Jun-17,Cork University Hospital,724,CUH Referral Centre,Lung Cancer Referral,19
+Jun-17,Cork University Hospital,724,CUH Referral Centre,Prostate Cancer Referral,18
+Jun-17,Cork University Hospital,724,Diabetes,General Referral,8
+Jun-17,Cork University Hospital,724,Endocrinology,General Referral,20
+Jun-17,Cork University Hospital,724,Gastroenterology,General Referral,33
+Jun-17,Cork University Hospital,724,General Surgery,General Referral,50
+Jun-17,Cork University Hospital,724,Gynaecology,General Referral,80
+Jun-17,Cork University Hospital,724,Maxillo Facial,General Referral,4
+Jun-17,Cork University Hospital,724,Medicine for the Elderly,General Referral,14
+Jun-17,Cork University Hospital,724,Nephrology,General Referral,13
+Jun-17,Cork University Hospital,724,Neurology,General Referral,40
+Jun-17,Cork University Hospital,724,Neurosurgery,General Referral,45
+Jun-17,Cork University Hospital,724,Ophthalmology,General Referral,87
+Jun-17,Cork University Hospital,724,Paediatric Endocrinology,General Referral,5
+Jun-17,Cork University Hospital,724,Paediatric Medicine,General Referral,46
+Jun-17,Cork University Hospital,724,Paediatric Neurology,General Referral,4
+Jun-17,Cork University Hospital,724,Paediatric Respiratory,General Referral,7
+Jun-17,Cork University Hospital,724,Plastic Surgery,General Referral,51
+Jun-17,Cork University Hospital,724,Respiratory,General Referral,37
+Jun-17,Cork University Hospital,724,Rheumatology,General Referral,35
+Jun-17,Cork University Hospital,724,Urology,General Referral,42
+Jun-17,Cork University Hospital,724,Vascular,General Referral,30
+Jun-17,County Clinic Longford,9103,Gynaecology,General Referral,1
+Jun-17,County Clinic Longford,9103,Paediatric,General Referral,6
+Jun-17,County Clinic Longford,9103,Surgical,General Referral,28
+Jun-17,Kerry General Hospital,726,Audiology,General Referral,4
+Jun-17,Kerry General Hospital,726,Cardiology,General Referral,36
+Jun-17,Kerry General Hospital,726,Dermatology,General Referral,50
+Jun-17,Kerry General Hospital,726,Diabetes,General Referral,2
+Jun-17,Kerry General Hospital,726,Ear Nose and Throat,General Referral,51
+Jun-17,Kerry General Hospital,726,Endocrinology,General Referral,13
+Jun-17,Kerry General Hospital,726,General Medicine,General Referral,46
+Jun-17,Kerry General Hospital,726,General Surgery,General Referral,235
+Jun-17,Kerry General Hospital,726,Gynaecology,General Referral,70
+Jun-17,Kerry General Hospital,726,Medicine for the Elderly,General Referral,3
+Jun-17,Kerry General Hospital,726,Neurology,General Referral,13
+Jun-17,Kerry General Hospital,726,Orthopaedics,General Referral,116
+Jun-17,Kerry General Hospital,726,Paediatrics,General Referral,26
+Jun-17,Kerry General Hospital,726,Plastic Surgery,General Referral,7
+Jun-17,Kerry General Hospital,726,Renal,General Referral,4
+Jun-17,Kerry General Hospital,726,Rheumatology,General Referral,26
+Jun-17,Letterkenny University Hospital,500,Antenatal,General Referral,28
+Jun-17,Letterkenny University Hospital,500,Cardiology,General Referral,19
+Jun-17,Letterkenny University Hospital,500,Colorectal,General Referral,6
+Jun-17,Letterkenny University Hospital,500,Day Services,General Referral,31
+Jun-17,Letterkenny University Hospital,500,Dermatology,General Referral,34
+Jun-17,Letterkenny University Hospital,500,Ear Nose and Throat,General Referral,48
+Jun-17,Letterkenny University Hospital,500,Endocrinology,General Referral,6
+Jun-17,Letterkenny University Hospital,500,Gastroenterology,General Referral,16
+Jun-17,Letterkenny University Hospital,500,Gynaecology,General Referral,31
+Jun-17,Letterkenny University Hospital,500,Haematology,General Referral,10
+Jun-17,Letterkenny University Hospital,500,Letterkenny Breast Unit,Breast Clinic Referral,48
+Jun-17,Letterkenny University Hospital,500,Medical,General Referral,20
+Jun-17,Letterkenny University Hospital,500,Nephrology,General Referral,3
+Jun-17,Letterkenny University Hospital,500,Ophthalmology,General Referral,11
+Jun-17,Letterkenny University Hospital,500,Oral Surgery,General Referral,4
+Jun-17,Letterkenny University Hospital,500,Orthopaedics,General Referral,51
+Jun-17,Letterkenny University Hospital,500,Paediatrics,General Referral,22
+Jun-17,Letterkenny University Hospital,500,Respiratory,General Referral,13
+Jun-17,Letterkenny University Hospital,500,Rheumatology,General Referral,5
+Jun-17,Letterkenny University Hospital,500,Surgical,General Referral,34
+Jun-17,Letterkenny University Hospital,500,Urology,General Referral,11
+Jun-17,Letterkenny University Hospital,500,X-Ray,General Referral,3
+Jun-17,Louth County Hospital,400,Endocrinology,General Referral,15
+Jun-17,Louth County Hospital,400,General Medicine,General Referral,22
+Jun-17,Louth County Hospital,400,Gynaecology,General Referral,22
+Jun-17,Louth County Hospital,400,Orthopaedics,General Referral,46
+Jun-17,Louth County Hospital,400,Paediatrics,General Referral,6
+Jun-17,Louth County Hospital,400,Surgery,General Referral,71
+Jun-17,Louth County Hospital,400,Urology,General Referral,7
+Jun-17,Mallow General Hospital,703,Ear Nose and Throat,General Referral,29
+Jun-17,Mallow General Hospital,703,General Medicine,General Referral,62
+Jun-17,Mallow General Hospital,703,General Surgery,General Referral,98
+Jun-17,Mater Private Dublin Hospital,9060,Cardiology - Consultant clinics,General Referral,4
+Jun-17,Mater Private Dublin Hospital,9060,Mater Private Breast Clinic,Breast Clinic Referral,32
+Jun-17,Mater Public Hospital,908,Cardiac/Thoracic Surgery,General Referral,3
+Jun-17,Mater Public Hospital,908,Colorectal Surgery,General Referral,9
+Jun-17,Mater Public Hospital,908,Dermatology,General Referral,66
+Jun-17,Mater Public Hospital,908,Diabetic/Endocrinology,General Referral,18
+Jun-17,Mater Public Hospital,908,ENT Surgery,General Referral,48
+Jun-17,Mater Public Hospital,908,Gastroenterology,General Referral,61
+Jun-17,Mater Public Hospital,908,Gen Med/Cardiology,General Referral,38
+Jun-17,Mater Public Hospital,908,Gen/Vas Surgery,General Referral,48
+Jun-17,Mater Public Hospital,908,General Surgery,General Referral,40
+Jun-17,Mater Public Hospital,908,Geriatrics,General Referral,5
+Jun-17,Mater Public Hospital,908,Gynaecology,General Referral,6
+Jun-17,Mater Public Hospital,908,Haematology,General Referral,17
+Jun-17,Mater Public Hospital,908,Hepatology,General Referral,7
+Jun-17,Mater Public Hospital,908,Infectious Diseases,General Referral,7
+Jun-17,Mater Public Hospital,908,Mater Lung Clinic,Lung Cancer Referral,11
+Jun-17,Mater Public Hospital,908,Mater Prostate Clinic,Prostate Cancer Referral,23
+Jun-17,Mater Public Hospital,908,Mater Public Breast Unit,Breast Clinic Referral,297
+Jun-17,Mater Public Hospital,908,Metabolic Disease,General Referral,2
+Jun-17,Mater Public Hospital,908,Nephrology,General Referral,6
+Jun-17,Mater Public Hospital,908,Neurology,General Referral,29
+Jun-17,Mater Public Hospital,908,Oncology,General Referral,1
+Jun-17,Mater Public Hospital,908,Ophthalmology,General Referral,33
+Jun-17,Mater Public Hospital,908,Orthopaedic,General Referral,58
+Jun-17,Mater Public Hospital,908,Pain Medicine,General Referral,17
+Jun-17,Mater Public Hospital,908,Plastic Surgery,General Referral,26
+Jun-17,Mater Public Hospital,908,Psychiatry,General Referral,1
+Jun-17,Mater Public Hospital,908,Respiratory Med,General Referral,6
+Jun-17,Mater Public Hospital,908,Rheumatology,General Referral,16
+Jun-17,Mater Public Hospital,908,Urology,General Referral,48
+Jun-17,Mayo University Hospital,802,Dermatology,General Referral,5
+Jun-17,Mayo University Hospital,802,Diabetic,General Referral,4
+Jun-17,Mayo University Hospital,802,ENT,General Referral,25
+Jun-17,Mayo University Hospital,802,Gynaecology,General Referral,40
+Jun-17,Mayo University Hospital,802,Medical,General Referral,64
+Jun-17,Mayo University Hospital,802,Nephrology,General Referral,1
+Jun-17,Mayo University Hospital,802,Obstetrics,General Referral,17
+Jun-17,Mayo University Hospital,802,Orthopaedic,General Referral,90
+Jun-17,Mayo University Hospital,802,Paediatrics,General Referral,33
+Jun-17,Mayo University Hospital,802,Surgical,General Referral,80
+Jun-17,Mayo University Hospital,802,Urology,General Referral,3
+Jun-17,Mercy University Hospital,913,Cardiology,General Referral,30
+Jun-17,Mercy University Hospital,913,Endocrinology,General Referral,1
+Jun-17,Mercy University Hospital,913,Gastroenterology,General Referral,72
+Jun-17,Mercy University Hospital,913,General Surgery,General Referral,50
+Jun-17,Mercy University Hospital,913,Haematology,General Referral,6
+Jun-17,Mercy University Hospital,913,Heptobiliary and Pancreatic,General Referral,8
+Jun-17,Mercy University Hospital,913,Infectious Diseases,General Referral,2
+Jun-17,Mercy University Hospital,913,Medicine for the Elderly,General Referral,9
+Jun-17,Mercy University Hospital,913,Neurology,General Referral,15
+Jun-17,Mercy University Hospital,913,Paediatrics,General Referral,17
+Jun-17,Mercy University Hospital,913,Pain Medicine,General Referral,18
+Jun-17,Mercy University Hospital,913,Radiology,General Referral,363
+Jun-17,Mercy University Hospital,913,Respiratory,General Referral,36
+Jun-17,Mercy University Hospital,913,Urology,General Referral,67
+Jun-17,Mercy University Hospital,913,Vascular,General Referral,27
+Jun-17,Merlin Park University Hospital,801,Radiology,General Referral,27
+Jun-17,Merrion Fertility Clinic,9117,Reproductive Medicine,General Referral,1
+Jun-17,Midland Regional Hospital Portlaoise,201,Cardiology,General Referral,13
+Jun-17,Midland Regional Hospital Portlaoise,201,Endocrinology,General Referral,3
+Jun-17,Midland Regional Hospital Portlaoise,201,Gynaecology,General Referral,26
+Jun-17,Midland Regional Hospital Portlaoise,201,Medical,General Referral,4
+Jun-17,Midland Regional Hospital Portlaoise,201,Obstetric,General Referral,13
+Jun-17,Midland Regional Hospital Portlaoise,201,Ophthalmology,General Referral,4
+Jun-17,Midland Regional Hospital Portlaoise,201,Paediatrics,General Referral,12
+Jun-17,Midland Regional Hospital Portlaoise,201,Surgical,General Referral,30
+Jun-17,Midland Regional Hospital Portlaoise,201,Urology,General Referral,7
+Jun-17,Mullingar Midland Regional Hospital,202,Cardiology,General Referral,34
+Jun-17,Mullingar Midland Regional Hospital,202,Dermatology,General Referral,30
+Jun-17,Mullingar Midland Regional Hospital,202,Diabetes Mellitus,General Referral,4
+Jun-17,Mullingar Midland Regional Hospital,202,Endocrinology,General Referral,19
+Jun-17,Mullingar Midland Regional Hospital,202,General Medicine,General Referral,33
+Jun-17,Mullingar Midland Regional Hospital,202,General Surgery,General Referral,107
+Jun-17,Mullingar Midland Regional Hospital,202,Geriatric Medicine,General Referral,5
+Jun-17,Mullingar Midland Regional Hospital,202,Gynaecology,General Referral,60
+Jun-17,Mullingar Midland Regional Hospital,202,Haematology,General Referral,6
+Jun-17,Mullingar Midland Regional Hospital,202,Obstetrics,General Referral,39
+Jun-17,Mullingar Midland Regional Hospital,202,Ophthalmology,General Referral,7
+Jun-17,Mullingar Midland Regional Hospital,202,Orthopaedic,General Referral,3
+Jun-17,Mullingar Midland Regional Hospital,202,Paediatrics,General Referral,26
+Jun-17,Mullingar Midland Regional Hospital,202,Respiratory,General Referral,30
+Jun-17,Naas General Hospital,102,Anaesthetics,General Referral,1
+Jun-17,Naas General Hospital,102,Cardiology,General Referral,11
+Jun-17,Naas General Hospital,102,Dermatology,General Referral,25
+Jun-17,Naas General Hospital,102,Endocrinology/Diabetology,General Referral,6
+Jun-17,Naas General Hospital,102,Gastroenterology,General Referral,16
+Jun-17,Naas General Hospital,102,General Medical,General Referral,4
+Jun-17,Naas General Hospital,102,General Surgical,General Referral,47
+Jun-17,Naas General Hospital,102,Geriatrics,General Referral,6
+Jun-17,Naas General Hospital,102,Haematology,General Referral,1
+Jun-17,Naas General Hospital,102,Orthopaedics,General Referral,25
+Jun-17,Naas General Hospital,102,Respiratory,General Referral,8
+Jun-17,National Maternity Hospital Holles Street,931,Gynaecology,General Referral,36
+Jun-17,National Maternity Hospital Holles Street,931,Obstetrics,General Referral,20
+Jun-17,Our Lady of Lourdes Hospital,922,Cardiology,General Referral,38
+Jun-17,Our Lady of Lourdes Hospital,922,Dermatology,General Referral,108
+Jun-17,Our Lady of Lourdes Hospital,922,Endocrinology,General Referral,10
+Jun-17,Our Lady of Lourdes Hospital,922,ENT,General Referral,59
+Jun-17,Our Lady of Lourdes Hospital,922,Gastroenterology,General Referral,13
+Jun-17,Our Lady of Lourdes Hospital,922,General Medicine,General Referral,15
+Jun-17,Our Lady of Lourdes Hospital,922,General Surgery,General Referral,38
+Jun-17,Our Lady of Lourdes Hospital,922,Gynaecology,General Referral,37
+Jun-17,Our Lady of Lourdes Hospital,922,Haematology,General Referral,12
+Jun-17,Our Lady of Lourdes Hospital,922,Minor Ops,General Referral,15
+Jun-17,Our Lady of Lourdes Hospital,922,Nephrology,General Referral,7
+Jun-17,Our Lady of Lourdes Hospital,922,Ophthalmology,General Referral,23
+Jun-17,Our Lady of Lourdes Hospital,922,Paediatric Orthopaedics,General Referral,8
+Jun-17,Our Lady of Lourdes Hospital,922,Paediatric Surgery,General Referral,4
+Jun-17,Our Lady of Lourdes Hospital,922,Paediatrics,General Referral,42
+Jun-17,Our Lady of Lourdes Hospital,922,Pigmented Lesion,Pigmented Lesion Referral,20
+Jun-17,Our Lady of Lourdes Hospital,922,Respiratory Medicine,General Referral,17
+Jun-17,Our Lady of Lourdes Hospital,922,Tropical Medicine,General Referral,1
+Jun-17,Our Lady of Lourdes Hospital,922,Urology,General Referral,22
+Jun-17,Our Lady's Children's Hospital Crumlin,941,Allergy,General Referral,9
+Jun-17,Our Lady's Children's Hospital Crumlin,941,General Medical,General Referral,36
+Jun-17,Our Lady's Hospital Navan,403,Cardiology,General Referral,10
+Jun-17,Our Lady's Hospital Navan,403,Diabetic,General Referral,3
+Jun-17,Our Lady's Hospital Navan,403,Endocrinology,General Referral,4
+Jun-17,Our Lady's Hospital Navan,403,Gastroenterology,General Referral,22
+Jun-17,Our Lady's Hospital Navan,403,General Surgery,General Referral,82
+Jun-17,Our Lady's Hospital Navan,403,Geriatric / Memory Loss,General Referral,4
+Jun-17,Our Lady's Hospital Navan,403,Gynaecology,General Referral,15
+Jun-17,Our Lady's Hospital Navan,403,Orthopaedic,General Referral,88
+Jun-17,Our Lady's Hospital Navan,403,Respiratory,General Referral,9
+Jun-17,Our Lady's Hospital Navan,403,Rheumatology,General Referral,47
+Jun-17,Portiuncula University Hospital,919,Cardiac,General Referral,18
+Jun-17,Portiuncula University Hospital,919,Dermatology,General Referral,5
+Jun-17,Portiuncula University Hospital,919,Endocrinology,General Referral,13
+Jun-17,Portiuncula University Hospital,919,Gynaecology,General Referral,41
+Jun-17,Portiuncula University Hospital,919,Medical,General Referral,19
+Jun-17,Portiuncula University Hospital,919,Nerve Conductive,General Referral,3
+Jun-17,Portiuncula University Hospital,919,Obstetrics,General Referral,32
+Jun-17,Portiuncula University Hospital,919,Orthopaedic,General Referral,1
+Jun-17,Portiuncula University Hospital,919,Paediatrics,General Referral,16
+Jun-17,Portiuncula University Hospital,919,Pain,General Referral,3
+Jun-17,Portiuncula University Hospital,919,Surgical,General Referral,72
+Jun-17,Portiuncula University Hospital,919,Urology,General Referral,20
+Jun-17,Roscommon University Hospital,803,ENT,General Referral,3
+Jun-17,Roscommon University Hospital,803,Medical,General Referral,23
+Jun-17,Roscommon University Hospital,803,Orthopaedic,General Referral,7
+Jun-17,Roscommon University Hospital,803,Pigmented Lesion,Pigmented Lesion Referral,9
+Jun-17,Roscommon University Hospital,803,Plastics,General Referral,54
+Jun-17,Roscommon University Hospital,803,Surgical,General Referral,37
+Jun-17,Roscommon University Hospital,803,Urology,General Referral,2
+Jun-17,Roscommon University Hospital,803,Vascular,General Referral,10
+Jun-17,Rotunda Hospital,932,Gynaecology,General Referral,64
+Jun-17,Rotunda Hospital,932,Obstetrics,General Referral,27
+Jun-17,Rotunda Hospital,932,Ultrasound,General Referral,10
+Jun-17,Royal Victoria Eye and Ear Hospital,950,ENT,General Referral,37
+Jun-17,Royal Victoria Eye and Ear Hospital,950,Ophthalmology,Ophthalmology Referral,23
+Jun-17,Sligo University Hospital,501,Dermatology,General Referral,27
+Jun-17,Sligo University Hospital,501,Diabetology,General Referral,1
+Jun-17,Sligo University Hospital,501,ENT,General Referral,42
+Jun-17,Sligo University Hospital,501,General Surgery,General Referral,60
+Jun-17,Sligo University Hospital,501,Immunology,General Referral,4
+Jun-17,Sligo University Hospital,501,Medical,General Referral,65
+Jun-17,Sligo University Hospital,501,Neurology,General Referral,3
+Jun-17,Sligo University Hospital,501,Ophthalmology,General Referral,31
+Jun-17,Sligo University Hospital,501,Orthopaedics,General Referral,19
+Jun-17,Sligo University Hospital,501,Paediatrics,General Referral,16
+Jun-17,Sligo University Hospital,501,Urology,General Referral,9
+Jun-17,South Infirmary Victoria Hospital,915,Dermatology,General Referral,182
+Jun-17,South Infirmary Victoria Hospital,915,Ear Nose and Throat,General Referral,228
+Jun-17,South Infirmary Victoria Hospital,915,Endocrinology,General Referral,3
+Jun-17,South Infirmary Victoria Hospital,915,General Surgery,General Referral,143
+Jun-17,South Infirmary Victoria Hospital,915,Maxillo Facial,General Referral,3
+Jun-17,South Infirmary Victoria Hospital,915,Orthopaedics,General Referral,179
+Jun-17,South Infirmary Victoria Hospital,915,Pain Medicine,General Referral,30
+Jun-17,South Infirmary Victoria Hospital,915,Pigmented Lesion,Pigmented Lesion Referral,155
+Jun-17,South Infirmary Victoria Hospital,915,Plastic Surgery,General Referral,52
+Jun-17,South Infirmary Victoria Hospital,915,Rheumatology,General Referral,26
+Jun-17,South Tipperary General Hospital,607,Cardiology,General Referral,9
+Jun-17,South Tipperary General Hospital,607,Diabetes Mellitus,General Referral,4
+Jun-17,South Tipperary General Hospital,607,General Medicine,General Referral,18
+Jun-17,South Tipperary General Hospital,607,General Surgery,General Referral,46
+Jun-17,South Tipperary General Hospital,607,Geriatric Medicine,General Referral,2
+Jun-17,South Tipperary General Hospital,607,Gynaecology,General Referral,20
+Jun-17,South Tipperary General Hospital,607,Obstetrics,General Referral,6
+Jun-17,South Tipperary General Hospital,607,Paediatrics,General Referral,7
+Jun-17,St. Columcille's Hospital,101,Cardiology,General Referral,8
+Jun-17,St. Columcille's Hospital,101,Endocrinology,General Referral,12
+Jun-17,St. Columcille's Hospital,101,Gastroenterology,General Referral,11
+Jun-17,St. Columcille's Hospital,101,General Medicine,General Referral,1
+Jun-17,St. Columcille's Hospital,101,General Surgery,General Referral,28
+Jun-17,St. Columcille's Hospital,101,Gerontology,General Referral,8
+Jun-17,St. Columcille's Hospital,101,Pain Management,General Referral,1
+Jun-17,St. Columcille's Hospital,101,Urology,General Referral,2
+Jun-17,St. Columcille's Hospital,101,Vascular,General Referral,6
+Jun-17,St. James's Hospital,904,Cardiology,General Referral,28
+Jun-17,St. James's Hospital,904,Dermatology,General Referral,58
+Jun-17,St. James's Hospital,904,Diabetes,General Referral,3
+Jun-17,St. James's Hospital,904,Endocrinology,General Referral,10
+Jun-17,St. James's Hospital,904,Gastroenterology,General Referral,28
+Jun-17,St. James's Hospital,904,Hepatology,General Referral,12
+Jun-17,St. James's Hospital,904,Immunology,General Referral,9
+Jun-17,St. James's Hospital,904,Narcolepsy,General Referral,2
+Jun-17,St. James's Hospital,904,Nephrology,General Referral,5
+Jun-17,St. James's Hospital,904,Pigmented Lesion,Pigmented Lesion Referral,31
+Jun-17,St. James's Hospital,904,Respiratory,General Referral,16
+Jun-17,St. James's Hospital,904,Rheumatology,General Referral,10
+Jun-17,St. James's Hospital,904,St. James's Breast Clinic,Breast Clinic Referral,210
+Jun-17,St. James's Hospital,904,St. James's Lung Clinic,Lung Cancer Referral,8
+Jun-17,St. James's Hospital,904,St. James's Neurology Dept.,Neurology Referral,12
+Jun-17,St. James's Hospital,904,St. James's Urology,Prostate Cancer Referral,21
+Jun-17,St. John of Gods,18,Outpatient Appointment,General Referral,4
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Cardiology,General Referral,12
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Endocrinology/Diabetes Mellitus,General Referral,4
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Gastroenterology,General Referral,4
+Jun-17,"St. Luke's Hospital, Kilkenny",601,General Medicine,General Referral,4
+Jun-17,"St. Luke's Hospital, Kilkenny",601,General Surgery,General Referral,38
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Gynaecology,General Referral,19
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Hepatology,General Referral,3
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Obstetrics,General Referral,7
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Paediatrics,General Referral,4
+Jun-17,"St. Luke's Hospital, Kilkenny",601,Respiratory,General Referral,9
+Jun-17,St. Michael's Hospital,912,Cardiology,General Referral,7
+Jun-17,St. Michael's Hospital,912,Care of the Elderly,General Referral,5
+Jun-17,St. Michael's Hospital,912,Dermatology,General Referral,17
+Jun-17,St. Michael's Hospital,912,Diabetes,General Referral,3
+Jun-17,St. Michael's Hospital,912,Endocrinology/Metabolism,General Referral,4
+Jun-17,St. Michael's Hospital,912,ENT,General Referral,10
+Jun-17,St. Michael's Hospital,912,Gastroenterology,General Referral,18
+Jun-17,St. Michael's Hospital,912,General Surgery,General Referral,23
+Jun-17,St. Michael's Hospital,912,Gynaecology,General Referral,6
+Jun-17,St. Michael's Hospital,912,Heart Failure Clinic,General Referral,6
+Jun-17,St. Michael's Hospital,912,Heart Failure Virtual Clinic,General Referral,3
+Jun-17,St. Michael's Hospital,912,Ophthalmology (Adults),General Referral,3
+Jun-17,St. Michael's Hospital,912,Ophthalmology (Children),General Referral,1
+Jun-17,St. Michael's Hospital,912,Orthopaedic (Foot & Ankle),General Referral,2
+Jun-17,St. Michael's Hospital,912,Orthopaedics,General Referral,4
+Jun-17,St. Michael's Hospital,912,Respiratory,General Referral,10
+Jun-17,St. Michael's Hospital,912,Urology,General Referral,7
+Jun-17,St. Vincent's University Hospital,910,Cardiology,General Referral,29
+Jun-17,St. Vincent's University Hospital,910,Dermatology,General Referral,66
+Jun-17,St. Vincent's University Hospital,910,Endocrinology,General Referral,7
+Jun-17,St. Vincent's University Hospital,910,ENT,General Referral,35
+Jun-17,St. Vincent's University Hospital,910,Gastroenterology,General Referral,34
+Jun-17,St. Vincent's University Hospital,910,General Medicine,General Referral,1
+Jun-17,St. Vincent's University Hospital,910,General Surgery,General Referral,36
+Jun-17,St. Vincent's University Hospital,910,Geriatrics,General Referral,19
+Jun-17,St. Vincent's University Hospital,910,Gynaecology,General Referral,21
+Jun-17,St. Vincent's University Hospital,910,Haematology,General Referral,12
+Jun-17,St. Vincent's University Hospital,910,Infectious Diseases,General Referral,3
+Jun-17,St. Vincent's University Hospital,910,Ophthalmology,General Referral,9
+Jun-17,St. Vincent's University Hospital,910,Orthopaedic,General Referral,82
+Jun-17,St. Vincent's University Hospital,910,Pain Management,General Referral,9
+Jun-17,St. Vincent's University Hospital,910,Pigmented Lesion,Pigmented Lesion Referral,51
+Jun-17,St. Vincent's University Hospital,910,Plastics,General Referral,39
+Jun-17,St. Vincent's University Hospital,910,Psychiatry,General Referral,5
+Jun-17,St. Vincent's University Hospital,910,Radiotherapy,General Referral,1
+Jun-17,St. Vincent's University Hospital,910,Renal,General Referral,6
+Jun-17,St. Vincent's University Hospital,910,Respiratory,General Referral,33
+Jun-17,St. Vincent's University Hospital,910,Rheumatology,General Referral,29
+Jun-17,St. Vincent's University Hospital,910,St. Vincent's Breast Clinic,Breast Clinic Referral,197
+Jun-17,St. Vincent's University Hospital,910,St. Vincent's Endoscopy,Endoscopy Referral,34
+Jun-17,St. Vincent's University Hospital,910,St. Vincent's Neurology Dept.,Neurology Referral,22
+Jun-17,St. Vincent's University Hospital,910,St. Vincent's Prostate Clinic,Prostate Cancer Referral,18
+Jun-17,St. Vincent's University Hospital,910,St. Vincents Lung Clinic,Lung Cancer Referral,10
+Jun-17,St. Vincent's University Hospital,910,Urology,General Referral,36
+Jun-17,St. Vincent's University Hospital,910,Vascular Surgery,General Referral,31
+Jun-17,Temple Street Children's University Hospital,940,ENT,General Referral,47
+Jun-17,Temple Street Children's University Hospital,940,General Medicine,General Referral,64
+Jun-17,Temple Street Children's University Hospital,940,Orthopaedics,General Referral,21
+Jun-17,Temple Street Children's University Hospital,940,Plastics,General Referral,6
+Jun-17,Temple Street Children's University Hospital,940,Surgical,General Referral,21
+Jun-17,Temple Street Children's University Hospital,940,Urology,General Referral,17
+Jun-17,Tullamore Midland Regional Hospital,203,Cardiology,General Referral,24
+Jun-17,Tullamore Midland Regional Hospital,203,ENT,General Referral,120
+Jun-17,Tullamore Midland Regional Hospital,203,General Medical,General Referral,35
+Jun-17,Tullamore Midland Regional Hospital,203,General Surgical,General Referral,108
+Jun-17,Tullamore Midland Regional Hospital,203,Haematology,General Referral,13
+Jun-17,Tullamore Midland Regional Hospital,203,Nephrology,General Referral,7
+Jun-17,Tullamore Midland Regional Hospital,203,Obstetrics/Gynae,General Referral,7
+Jun-17,Tullamore Midland Regional Hospital,203,Oncology,General Referral,2
+Jun-17,Tullamore Midland Regional Hospital,203,Ophthalmology,General Referral,5
+Jun-17,Tullamore Midland Regional Hospital,203,Orthopaedics,General Referral,114
+Jun-17,Tullamore Midland Regional Hospital,203,Paediatrics,General Referral,2
+Jun-17,Tullamore Midland Regional Hospital,203,Rheumatology,General Referral,28
+Jun-17,UL Hospitals Group,9100,Cardiology,General Referral,72
+Jun-17,UL Hospitals Group,9100,Dermatology,General Referral,104
+Jun-17,UL Hospitals Group,9100,Endocrinology,General Referral,32
+Jun-17,UL Hospitals Group,9100,ENT (Otolaryngology),General Referral,133
+Jun-17,UL Hospitals Group,9100,Gastroenterology,General Referral,86
+Jun-17,UL Hospitals Group,9100,General Medicine,General Referral,13
+Jun-17,UL Hospitals Group,9100,General Surgery,General Referral,148
+Jun-17,UL Hospitals Group,9100,Geriatric Medicine,General Referral,11
+Jun-17,UL Hospitals Group,9100,Gynaecology,General Referral,78
+Jun-17,UL Hospitals Group,9100,Haematology,General Referral,10
+Jun-17,UL Hospitals Group,9100,Maxillo-Facial,General Referral,22
+Jun-17,UL Hospitals Group,9100,Nephrology,General Referral,10
+Jun-17,UL Hospitals Group,9100,Neurology,General Referral,25
+Jun-17,UL Hospitals Group,9100,Oncology,General Referral,2
+Jun-17,UL Hospitals Group,9100,Ophthalmology,General Referral,68
+Jun-17,UL Hospitals Group,9100,Orthopaedics,General Referral,123
+Jun-17,UL Hospitals Group,9100,Paediatrics,General Referral,63
+Jun-17,UL Hospitals Group,9100,Pain Management,General Referral,28
+Jun-17,UL Hospitals Group,9100,Respiratory Medicine,General Referral,26
+Jun-17,UL Hospitals Group,9100,Rheumatology,General Referral,26
+Jun-17,UL Hospitals Group,9100,Urology,General Referral,80
+Jun-17,UL Hospitals Group,9100,Vascular Surgery,General Referral,46
+Jun-17,University Hospital Galway,800,Anaesthetics,General Referral,1
+Jun-17,University Hospital Galway,800,Cardiology,General Referral,44
+Jun-17,University Hospital Galway,800,Clinical Immunology,General Referral,5
+Jun-17,University Hospital Galway,800,Dermatology,General Referral,69
+Jun-17,University Hospital Galway,800,Diabetes,General Referral,7
+Jun-17,University Hospital Galway,800,Endocrinology,General Referral,21
+Jun-17,University Hospital Galway,800,Fertility,General Referral,3
+Jun-17,University Hospital Galway,800,Gastro-Enterology,General Referral,69
+Jun-17,University Hospital Galway,800,General Surgery,General Referral,54
+Jun-17,University Hospital Galway,800,Geriatric Medicine,General Referral,8
+Jun-17,University Hospital Galway,800,Gynaecology,General Referral,44
+Jun-17,University Hospital Galway,800,Haematology,General Referral,20
+Jun-17,University Hospital Galway,800,Haemochromatosis,General Referral,1
+Jun-17,University Hospital Galway,800,Hepatitis B/C,General Referral,1
+Jun-17,University Hospital Galway,800,Infectious Diseases,General Referral,1
+Jun-17,University Hospital Galway,800,Nephrology,General Referral,8
+Jun-17,University Hospital Galway,800,Neurology,General Referral,33
+Jun-17,University Hospital Galway,800,Obstetrics,General Referral,9
+Jun-17,University Hospital Galway,800,Ophthalmology,General Referral,43
+Jun-17,University Hospital Galway,800,Oral Surgery,General Referral,5
+Jun-17,University Hospital Galway,800,Orthopaedics,General Referral,99
+Jun-17,University Hospital Galway,800,Otolaryngology (ENT),General Referral,82
+Jun-17,University Hospital Galway,800,Paediatrics,General Referral,31
+Jun-17,University Hospital Galway,800,Pain Clinic,General Referral,4
+Jun-17,University Hospital Galway,800,Plastic Surgery,General Referral,104
+Jun-17,University Hospital Galway,800,Radiology,General Referral,99
+Jun-17,University Hospital Galway,800,Respiratory Medicine,General Referral,24
+Jun-17,University Hospital Galway,800,Rheumatology,General Referral,42
+Jun-17,University Hospital Galway,800,Sleep,General Referral,8
+Jun-17,University Hospital Galway,800,UCHG Breast Clinic,Breast Clinic Referral,222
+Jun-17,University Hospital Galway,800,UCHG Lung Clinic,Lung Cancer Referral,13
+Jun-17,University Hospital Galway,800,UCHG Urology,Prostate Cancer Referral,33
+Jun-17,University Hospital Galway,800,Urology,General Referral,47
+Jun-17,University Hospital Galway,800,Vascular Surgery,General Referral,38
+Jun-17,University Hospital Galway,800,Weight Loss Management,General Referral,8
+Jun-17,University Hospital Limerick,300,Limerick Lung Clinic,Lung Cancer Referral,15
+Jun-17,University Hospital Limerick,300,Limerick Neurology Dept.,Neurology Referral,1
+Jun-17,University Hospital Limerick,300,Limerick Prostate Clinic,Prostate Cancer Referral,15
+Jun-17,University Hospital Limerick,300,Limerick Regional Breast Clinic,Breast Clinic Referral,149
+Jun-17,University Hospital Limerick,300,Pigmented Lesion Limerick,Pigmented Lesion Referral,57
+Jun-17,University Hospital Waterford,600,Dermatology,General Referral,143
+Jun-17,University Hospital Waterford,600,ENT,General Referral,101
+Jun-17,University Hospital Waterford,600,General Surgery,General Referral,73
+Jun-17,University Hospital Waterford,600,Ophthalmology,General Referral,46
+Jun-17,University Hospital Waterford,600,Orthopaedics,General Referral,118
+Jun-17,University Hospital Waterford,600,Pain Medicine,General Referral,1
+Jun-17,University Hospital Waterford,600,Pigmented Lesion,Pigmented Lesion Referral,57
+Jun-17,University Hospital Waterford,600,Rheumatology,General Referral,32
+Jun-17,University Hospital Waterford,600,Urology,General Referral,41
+Jun-17,University Hospital Waterford,600,Vascular,General Referral,16
+Jun-17,University Hospital Waterford,600,Waterford Lung Clinic,Lung Cancer Referral,5
+Jun-17,University Hospital Waterford,600,Waterford Prostate Clinic,Prostate Cancer Referral,8
+Jun-17,University Hospital Waterford,600,Waterford Regional Breast Clinic,Breast Clinic Referral,204
+Jun-17,Wexford General Hospital,605,General Medicine,General Referral,68
+Jun-17,Wexford General Hospital,605,General Surgery,General Referral,67
+,,,,,53063
